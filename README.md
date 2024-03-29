@@ -49,3 +49,17 @@ salary, no. of publications, no. of chapters, amount of consultancy work, fund r
          3. AMount of Consultancy work
          4. Fund Received
          5. Professional Membership
+
+
+## [`Program 9`](p9FacultyAssociationRules.py)
+
+Generate 1,00000 rows and put in csv file, synthesized data faculty data set where experience linearly mapped to designation, 
+salary, no of publication, no of book chapters, amount of consultancy work, fund received, professional membership.
+1. Read csv file and load it into tuples (try lambda function)
+2. Perform the following operations:
+    1. Using regular expression search for associate professors with more than 15 years experience, assistant Professors with more than 5 years experience, Professors with more than 20 years experience
+    2. Analyze the association rule mining of associate professors for their following performance relations in different contributions
+        1. No. of publication and no of book chapters
+        2. No. of publication and amount of consultancy work
+        3. No. of publication and fund received
+        4. No. of publication and professional membership
