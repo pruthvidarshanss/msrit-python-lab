@@ -1,0 +1,12 @@
+2024-03-29 12:35:35,256:WARNING:D:\MSRIT\SEM I\Realtime Application Development using Python lab\p9FacultyAssociationRules.py:114: FutureWarning: DataFrame.applymap has been deprecated. Use DataFrame.map instead.
+  data_binary = data.applymap(lambda x: 1 if x > 0 else 0)
+
+2024-03-29 12:35:35,277:WARNING:D:\ProgramData\anaconda3\envs\kira\envs\msrit\Lib\site-packages\mlxtend\frequent_patterns\fpcommon.py:109: DeprecationWarning: DataFrames with non-bool types result in worse computationalperformance and their support might be discontinued in the future.Please use a DataFrame with bool type
+  warnings.warn(
+
+2024-03-29 12:36:27,484:WARNING:D:\MSRIT\SEM I\Realtime Application Development using Python lab\p9FacultyAssociationRules.py:114: FutureWarning: DataFrame.applymap has been deprecated. Use DataFrame.map instead.
+  data_binary = data.applymap(lambda x: 1 if x > 0 else 0)
+
+2024-03-29 12:36:27,493:WARNING:D:\ProgramData\anaconda3\envs\kira\envs\msrit\Lib\site-packages\mlxtend\frequent_patterns\fpcommon.py:109: DeprecationWarning: DataFrames with non-bool types result in worse computationalperformance and their support might be discontinued in the future.Please use a DataFrame with bool type
+  warnings.warn(
+
