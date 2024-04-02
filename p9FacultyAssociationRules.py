@@ -13,14 +13,12 @@ salary, no of publication, no of book chapters, amount of consultancy work, fund
             D. No. of publication and professional membership
 """
 
-import re
-import os, csv
+import os, csv, re
 from random import randint, choice
 from tqdm import tqdm
 import pandas as pd
 
-from mlxtend.frequent_patterns import apriori
-from mlxtend.frequent_patterns import association_rules
+from mlxtend.frequent_patterns import association_rules, apriori
 from warnings import filterwarnings
 filterwarnings("ignore")
 
@@ -82,6 +80,11 @@ def association_rule_mining(designation: str, experience: int) -> None:
         print(f"Number of Publications and {col}:")
         print(association_rules_df)
         print()
+
+        # pd.set_option('display.max_columns', None)
+        # pd.set_option('display.max_rows', None)
+
+        # association_rules_df.to_excel(f'association_rules_{designation}_{col}.xlsx', index=False)
 
 
 dataset_file = "re_synthetic_faculty_dataset.csv"
