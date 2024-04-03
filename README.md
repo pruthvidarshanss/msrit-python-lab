@@ -63,3 +63,24 @@ salary, no of publication, no of book chapters, amount of consultancy work, fund
         2. No. of publication and amount of consultancy work
         3. No. of publication and fund received
         4. No. of publication and professional membership
+
+
+## [`Program 10`](p10FacultyClassAndObjects.py)
+
+Generate 100000 rows and put it in csv file, synthesized data faculty dataset where experience linearly mapped to designation,
+salary, no. of publications, no. of chapters, amount of consultancy work, fund received and professional membership
+1. Use classes and objects for the following operations:
+    1. Read csv file and load it into temp variables
+    2. Perform the following operations
+        1. Using lambda and regular expression to search for associate professors with more than 25 years experience and 
+            load in another temp list called "asso_prof_25"
+        2. In asso_prof_25 list do the following factoring:
+            1. If experience > 25, yes means set the value as 1 else 0
+            2. If publication count > 5, yes means set the value as 1 else 0
+            3. Similarly do for no. of publications > 3, amount of consultancy work > 50000, fund received > 500000, 
+                professional membership > 2
+        3. Analyze the association rule mining of associate professors for the following performance relations in different contributions
+            1. Exerience, designation, no. of publications and no. of book chapters
+            2. Exerience, designation, no. of publications and amount of consultancy work
+            3. Exerience, designation, no. of publications and fund received
+            3. Exerience, designation, no. of publications and professional membership
