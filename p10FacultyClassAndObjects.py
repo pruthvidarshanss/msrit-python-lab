@@ -2,22 +2,22 @@
 Program 10
 ------------------------------------------------------------------------------------------------------------------------------
 Generate 100000 rows and put it in csv file, synthesized data faculty dataset where experience linearly mapped to designation,
-salary, no. of publications, no. of chapters, amount of consultancy work, fund received and professional membership
-A. Use classes and objects for the following operations:
-    i. Read csv file and load it into temp variables
-    ii. Perform the following operations
-        a. Using lambda and regular expression to search for associate professors with more than 25 years experience and 
-            load in another temp list called "asso_prof_25"
-        b. In asso_prof_25 list do the following factoring:
-            1. If experience > 25, yes means set the value as 1 else 0
-            2. If publication count > 5, yes means set the value as 1 else 0
-            3. Similarly do for no. of publications > 3, amount of consultancy work > 50000, fund received > 500000, 
-                professional membership > 2
-        c. Analyze the association rule mining of associate professors for the following performance relations in different contributions
-            1. Exerience, designation, no. of publications and no. of book chapters
-            2. Exerience, designation, no. of publications and amount of consultancy work
-            3. Exerience, designation, no. of publications and fund received
-            3. Exerience, designation, no. of publications and professional membership
+salary, no. of publications, no. of chapters, amount of consultancy work, fund received and professional membership. 
+Use classes and objects for the following operations:
+i. Read csv file and load it into temp variables
+ii. Perform the following operations
+    a. Using lambda and regular expression to search for associate professors with more than 25 years experience and 
+        load in another temp list called "asso_prof_25"
+    b. In asso_prof_25 list do the following factoring:
+        1. If experience > 25, yes means set the value as 1 else 0
+        2. If publication count > 5, yes means set the value as 1 else 0
+        3. Similarly do for no. of publications > 3, amount of consultancy work > 50000, fund received > 500000, 
+            professional membership > 2
+    c. Analyze the association rule mining of associate professors for the following performance relations in different contributions
+        1. Experience, designation, no. of publications and no. of book chapters
+        2. Experience, designation, no. of publications and amount of consultancy work
+        3. Experience, designation, no. of publications and fund received
+        3. Experience, designation, no. of publications and professional membership
 """
 
 import os, csv, re
@@ -66,7 +66,7 @@ class FacultyOperations:
             data = list(map(lambda row: list(row), read))
             self.data = data
         
-    def search(self, designation, experience):
+    def search(self, designation: str, experience: int) -> list:
         data_ls = []
         for ls in self.data[1:]:
             if re.search(designation, ls[1]) != None and int(ls[0]) > experience:
@@ -74,7 +74,7 @@ class FacultyOperations:
         
         return data_ls
     
-    def factoring(self, data):
+    def factoring(self, data: list) -> list:
         res = []
         for d in data:
             temp = []
@@ -92,7 +92,7 @@ class FacultyOperations:
     
 
     def association_rule_mining(self, designation: str, experience: int) -> None:
-        df = pd.read_csv(dataset_file)
+        df = pd.read_csv(self.dataset_path)
         df["Designation"].replace("Assistant Professor", 0, inplace=True)
         df["Designation"].replace("Associate Professor", 1, inplace=True)
         df["Designation"].replace("Professor", 2, inplace=True)
@@ -117,10 +117,10 @@ class FacultyOperations:
             print(association_rules_df)
             print()
 
-            # pd.set_option('display.max_columns', None)
-            # pd.set_option('display.max_rows', None)
+            pd.set_option('display.max_columns', None)
+            pd.set_option('display.max_rows', None)
 
-            # association_rules_df.to_excel(f'association_rules_{designation}_{col}.xlsx', index=False)
+            association_rules_df.to_excel(f'association_rules_{designation}_{col}.xlsx', index=False)
             
 
 dataset_file = "re2_synthetic_faculty_dataset.csv"
