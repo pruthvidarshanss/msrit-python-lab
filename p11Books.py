@@ -5,7 +5,7 @@ Create a csv file called "books.csv" with synthesized data set having the follow
 Student usn, semester-number, sub-code, subject name, book referred, book-id, grade scored.
     1. Use exception handling for file operations.
         i. Read the csv file content into local variables for accessing them in python
-        ii. Extract only sem-number, sub-code, book-id and grade scored and store in another CSV file called "extracted- books.csv".
+        ii. Extract only sem-number, sub-code, book-id and grade scored and store in another CSV file called "extracted-books.csv".
         iii. Note: When you write into the "extracted-books.csv", file Convert grade code to number (Sgrade-9, A grade-8,etc) 
             and update into the file
     2. Analyse the coorelation between sem-number, sub-code, book-id and grade scored
