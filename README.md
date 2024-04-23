@@ -84,3 +84,17 @@ salary, no. of publications, no. of chapters, amount of consultancy work, fund r
             2. Exerience, designation, no. of publications and amount of consultancy work
             3. Exerience, designation, no. of publications and fund received
             3. Exerience, designation, no. of publications and professional membership
+
+
+## [`Program 11`](p11Books.py)
+
+Create a csv file called "books.csv" with synthesized data set having the following columns: 
+Student usn, semester-number, sub-code, subject name, book referred, book-id, grade scored.
+1. Use exception handling for file operations.
+     1. Read the csv file content into local variables for accessing them in python
+     2. Extract only sem-number, sub-code, book-id and grade scored and store in another CSV file called "extracted- books.csv".
+     3. Note: When you write into the "extracted-books.csv", file Convert grade code to number (Sgrade-9, A grade-8,etc) 
+         and update into the file
+2. Analyse the coorelation between sem-number, sub-code, book-id and grade scored
+     1. Convert the data set in required format to perform association rule mining an analyse the output
+     2. Convert the data set in required format to Perform the collaboration filtering over the data set.
