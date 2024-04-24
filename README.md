@@ -92,9 +92,22 @@ Create a csv file called "books.csv" with synthesized data set having the follow
 Student usn, semester-number, sub-code, subject name, book referred, book-id, grade scored.
 1. Use exception handling for file operations.
      1. Read the csv file content into local variables for accessing them in python
-     2. Extract only sem-number, sub-code, book-id and grade scored and store in another CSV file called "extracted- books.csv".
+     2. Extract only sem-number, sub-code, book-id and grade scored and store in another CSV file called "extracted-books.csv".
      3. Note: When you write into the "extracted-books.csv", file Convert grade code to number (Sgrade-9, A grade-8,etc) 
          and update into the file
 2. Analyse the coorelation between sem-number, sub-code, book-id and grade scored
      1. Convert the data set in required format to perform association rule mining an analyse the output
      2. Convert the data set in required format to Perform the collaboration filtering over the data set.
+
+
+## [`Program 12`](p12LinkedList.py)
+
+Create a csv file called "books.csv" with synthesized data set having the following columns: 
+Student usn, semester-number, sub-code, subject name, book referred, book-id, grade scored.
+   1. Read the csv file content into linked list for accessing them in python
+   2. Extract only sem-number, sub-code, book-id and grade scored and store in another CSV file called "extracted-books.csv".
+   3. Note: When you write into the "extracted-books.csv", file Convert grade code to number (Sgrade-9, A grade-8,etc) 
+   and update into the file
+   4. Analyse the coorelation between sem-number, sub-code, book-id and grade scored
+      1. Convert the data set in required format to Perform the collaboration filtering over the data set.
+

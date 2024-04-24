@@ -1,21 +1,20 @@
 """
 Program 11
-------------------------------------------------------------------------------------------------------------------------------
-Create a csv file called "books.csv" with synthesized data set having the following columns: 
+-----------------------------------------------------------------------------------------------------------------------------------
+Create a csv file called "books.csv" with synthesized dataset having the following columns: 
 Student usn, semester-number, sub-code, subject name, book referred, book-id, grade scored.
-    1. Use exception handling for file operations.
-        i. Read the csv file content into local variables for accessing them in python
-        ii. Extract only sem-number, sub-code, book-id and grade scored and store in another CSV file called "extracted-books.csv".
-        iii. Note: When you write into the "extracted-books.csv", file Convert grade code to number (Sgrade-9, A grade-8,etc) 
-            and update into the file
-    2. Analyse the coorelation between sem-number, sub-code, book-id and grade scored
-        i. Convert the data set in required format to perform association rule mining an analyse the output
-        ii. Convert the data set in required format to Perform the collaboration filtering over the data set.
+1. Use exception handling for file operations.
+    i. Read the csv file content into local variables for accessing them in python
+    ii. Extract only sem-number, sub-code, book-id and grade scored and store in another CSV file called "extracted-books.csv".
+    iii. Note: When you write into the "extracted-books.csv", file Convert grade code to number (Sgrade-9, A grade-8,etc) 
+        and update into the file
+2. Analyse the coorelation between sem-number, sub-code, book-id and grade scored
+    i. Convert the dataset in required format to perform association rule mining an analyse the output
+    ii. Convert the dataset in required format to perform the collaboration filtering over the dataset.
 """
 
-import csv
+import csv, random
 from faker import Faker
-import random
 from tqdm import tqdm
 
 import pandas as pd
@@ -93,7 +92,7 @@ def collaboration_filtering(df, sub_code: str) -> None:
 
     reader = Reader(rating_scale=(8, 10))
 
-    dataset = Dataset.load_from_df(metadata[["SUB_CODE", 'BOOK_ID', 'GRADE_SCORED']], reader)
+    dataset = Dataset.load_from_df(df_ratings[["SUB_CODE", 'BOOK_ID', 'GRADE_SCORED']], reader)
 
     model = SVD()
     trainset = dataset.build_full_trainset()
@@ -118,7 +117,7 @@ def collaboration_filtering(df, sub_code: str) -> None:
 dataset_file = 'books.csv'
 books_data = generate_books(dataset_file, 100000)
 
-books_data[:10]
+print(books_data[:10])
 
 df = pd.read_csv(dataset_file)
 
@@ -130,12 +129,8 @@ extracted.to_csv("extracted-books.csv", index=False)
 extracted_unit = pd.read_csv("extracted-books.csv", index_col=0)
 
 for i, col in enumerate(["SUB_CODE", "BOOK_ID"]):
-    if i == 0:
-        for val in extracted[col]:
-            extracted_unit[col].replace(val, int(val[-1]), inplace=True)
-    else:
-        for val in extracted[col]:
-            extracted_unit[col].replace(val, int(val[-1]), inplace=True)
+    for val in extracted[col]:
+        extracted_unit[col].replace(val, int(val[-1]), inplace=True)
 
 
 correlation = extracted_unit.corr()
