@@ -1,1001 +1,1001 @@
 USN,SEM,SUB_CODE,SUBJECT_NAME,BOOK_REFERRED,BOOK_ID,GRADE_SCORED
-1MS23CS5531,1,MCS12,ADBMS,Database System Concepts,BID22,C
-1MS23CS5637,1,MCS15,AIML,Machine Learning,BID52,S
-1MS23CS5996,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
-1MS23CS764,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
-1MS23CS7982,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,B
-1MS23CS4004,1,MCS13,RMI,Engineering Research Methodology,BID31,B
-1MS23CS9571,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,B
-1MS23CS1154,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
-1MS23CS8865,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,D
-1MS23CS1517,1,MCS16,IoT,Internet of Things,BID61,S
-1MS23CS3711,1,MCS15,AIML,Machine Learning,BID52,A
-1MS23CS8974,1,MCS14,VR,Virtual Reality,BID41,B
-1MS23CS4332,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,B
-1MS23CS7453,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,A
-1MS23CS4219,1,MCS16,IoT,Internet of Things,BID61,C
-1MS23CS9757,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,D
-1MS23CS6225,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,C
-1MS23CS3498,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,A
-1MS23CS2232,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,C
-1MS23CS6551,1,MCS15,AIML,Machine Learning,BID52,D
-1MS23CS4565,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
-1MS23CS1784,1,MCS13,RMI,Research Methods for Engineers,BID32,S
-1MS23CS5165,1,MCS14,VR,Virtual Reality,BID41,D
-1MS23CS1814,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,A
-1MS23CS5033,1,MCS15,AIML,Machine Learning,BID52,B
-1MS23CS4972,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,B
-1MS23CS962,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
-1MS23CS9759,1,MCS16,IoT,Internet of Things,BID61,A
-1MS23CS1466,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
-1MS23CS62,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,A
-1MS23CS7586,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,D
-1MS23CS4382,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,C
-1MS23CS8026,1,MCS15,AIML,Machine Learning,BID52,A
-1MS23CS3826,1,MCS16,IoT,Internet of Things,BID61,C
-1MS23CS5133,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,D
-1MS23CS2511,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
-1MS23CS1582,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,A
-1MS23CS8816,1,MCS15,AIML,Machine Learning,BID52,D
-1MS23CS8901,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,C
-1MS23CS4531,1,MCS13,RMI,Engineering Research Methodology,BID31,D
-1MS23CS1859,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,A
-1MS23CS1524,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,C
-1MS23CS1413,1,MCS15,AIML,Machine Learning,BID52,A
-1MS23CS5516,1,MCS13,RMI,Research Methods for Engineers,BID32,B
-1MS23CS8106,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
-1MS23CS6152,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
-1MS23CS8046,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
-1MS23CS7665,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,S
-1MS23CS3363,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,B
-1MS23CS6540,1,MCS16,IoT,Internet of Things,BID61,D
-1MS23CS5648,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
-1MS23CS3026,1,MCS15,AIML,Machine Learning,BID52,B
-1MS23CS605,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,S
-1MS23CS8120,1,MCS15,AIML,Machine Learning,BID52,A
-1MS23CS6732,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
-1MS23CS9956,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,B
-1MS23CS4515,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
-1MS23CS628,1,MCS15,AIML,Machine Learning,BID52,C
-1MS23CS348,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
-1MS23CS9144,1,MCS16,IoT,Internet of Things,BID61,B
-1MS23CS5891,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,B
-1MS23CS3110,1,MCS14,VR,Virtual Reality,BID41,B
-1MS23CS5228,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
-1MS23CS6232,1,MCS13,RMI,Engineering Research Methodology,BID31,C
-1MS23CS827,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,C
-1MS23CS4197,1,MCS14,VR,Virtual Reality,BID41,S
-1MS23CS1750,1,MCS16,IoT,Internet of Things,BID61,B
-1MS23CS3668,1,MCS16,IoT,Internet of Things,BID61,C
-1MS23CS8884,1,MCS13,RMI,Research Methods for Engineers,BID32,D
-1MS23CS4260,1,MCS16,IoT,Internet of Things,BID61,D
-1MS23CS2465,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,C
-1MS23CS8380,1,MCS16,IoT,Internet of Things,BID61,B
-1MS23CS1037,1,MCS15,AIML,Machine Learning,BID52,C
-1MS23CS2408,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
-1MS23CS8704,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
-1MS23CS5724,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,S
-1MS23CS8826,1,MCS15,AIML,Machine Learning,BID52,A
+1MS23CS6266,1,MCS13,RMI,Research Methods for Engineers,BID32,C
+1MS23CS4664,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,A
+1MS23CS9780,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
+1MS23CS748,1,MCS14,VR,Virtual Reality,BID41,A
+1MS23CS7150,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
+1MS23CS8257,1,MCS13,RMI,Research Methods for Engineers,BID32,B
+1MS23CS9349,1,MCS14,VR,Virtual Reality,BID41,B
+1MS23CS3616,1,MCS13,RMI,Research Methods for Engineers,BID32,A
+1MS23CS8650,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,S
+1MS23CS3772,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,C
+1MS23CS5793,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
+1MS23CS8755,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
+1MS23CS2317,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
+1MS23CS5356,1,MCS16,IoT,Internet of Things,BID61,B
+1MS23CS6190,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
+1MS23CS2002,1,MCS13,RMI,Research Methods for Engineers,BID32,B
+1MS23CS736,1,MCS13,RMI,Research Methods for Engineers,BID32,S
+1MS23CS6933,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
+1MS23CS1049,1,MCS16,IoT,Internet of Things,BID61,D
+1MS23CS3982,1,MCS15,AIML,Machine Learning,BID52,A
+1MS23CS740,1,MCS15,AIML,Machine Learning,BID52,A
+1MS23CS1275,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,B
+1MS23CS522,1,MCS13,RMI,Research Methods for Engineers,BID32,B
+1MS23CS2789,1,MCS15,AIML,Machine Learning,BID52,C
+1MS23CS830,1,MCS14,VR,Virtual Reality,BID41,S
+1MS23CS7270,1,MCS14,VR,Virtual Reality,BID41,D
+1MS23CS5807,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
+1MS23CS7547,1,MCS14,VR,Virtual Reality,BID41,C
+1MS23CS1681,1,MCS13,RMI,Research Methods for Engineers,BID32,A
+1MS23CS2127,1,MCS15,AIML,Machine Learning,BID52,B
+1MS23CS1810,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
+1MS23CS6954,1,MCS13,RMI,Research Methods for Engineers,BID32,B
+1MS23CS5236,1,MCS15,AIML,Machine Learning,BID52,C
+1MS23CS4366,1,MCS13,RMI,Research Methods for Engineers,BID32,B
+1MS23CS479,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,D
+1MS23CS373,1,MCS13,RMI,Research Methods for Engineers,BID32,S
+1MS23CS2210,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,S
+1MS23CS9991,1,MCS13,RMI,Engineering Research Methodology,BID31,D
+1MS23CS1802,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,D
+1MS23CS8953,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,B
+1MS23CS4414,1,MCS16,IoT,Internet of Things,BID61,D
+1MS23CS9687,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,A
+1MS23CS8417,1,MCS16,IoT,Internet of Things,BID61,B
+1MS23CS8990,1,MCS14,VR,Virtual Reality,BID41,S
+1MS23CS4585,1,MCS15,AIML,Machine Learning,BID52,A
+1MS23CS6916,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,D
+1MS23CS4117,1,MCS12,ADBMS,Database System Concepts,BID22,D
+1MS23CS4424,1,MCS12,ADBMS,Database System Concepts,BID22,S
+1MS23CS8087,1,MCS16,IoT,Internet of Things,BID61,B
+1MS23CS5577,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
+1MS23CS3047,1,MCS16,IoT,Internet of Things,BID61,C
+1MS23CS6254,1,MCS13,RMI,Research Methods for Engineers,BID32,A
+1MS23CS8702,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,B
+1MS23CS1642,1,MCS13,RMI,Research Methods for Engineers,BID32,D
+1MS23CS9168,1,MCS13,RMI,Engineering Research Methodology,BID31,C
+1MS23CS1772,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,D
+1MS23CS5226,1,MCS14,VR,Virtual Reality,BID41,S
+1MS23CS2761,1,MCS14,VR,Virtual Reality,BID41,A
+1MS23CS1564,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,A
+1MS23CS2361,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,C
+1MS23CS6896,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
+1MS23CS5991,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
+1MS23CS5456,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
+1MS23CS8018,1,MCS16,IoT,Internet of Things,BID61,D
+1MS23CS2652,1,MCS12,ADBMS,Database System Concepts,BID22,B
+1MS23CS3619,1,MCS12,ADBMS,Database System Concepts,BID22,D
+1MS23CS2568,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,S
+1MS23CS3651,1,MCS14,VR,Virtual Reality,BID41,B
+1MS23CS4631,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
+1MS23CS3578,1,MCS13,RMI,Engineering Research Methodology,BID31,A
+1MS23CS1233,1,MCS14,VR,Virtual Reality,BID41,A
+1MS23CS9746,1,MCS14,VR,Virtual Reality,BID41,S
+1MS23CS4168,1,MCS13,RMI,Research Methods for Engineers,BID32,A
+1MS23CS6605,1,MCS16,IoT,Internet of Things,BID61,C
+1MS23CS6790,1,MCS13,RMI,Research Methods for Engineers,BID32,D
+1MS23CS5700,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,D
+1MS23CS2233,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
+1MS23CS3443,1,MCS16,IoT,Internet of Things,BID61,C
+1MS23CS5816,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
+1MS23CS430,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
+1MS23CS1111,1,MCS13,RMI,Engineering Research Methodology,BID31,B
+1MS23CS9857,1,MCS15,AIML,Machine Learning,BID52,D
+1MS23CS2986,1,MCS13,RMI,Engineering Research Methodology,BID31,S
+1MS23CS6751,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,B
+1MS23CS5709,1,MCS15,AIML,Machine Learning,BID52,S
+1MS23CS5147,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
+1MS23CS2581,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,D
+1MS23CS1982,1,MCS13,RMI,Research Methods for Engineers,BID32,A
+1MS23CS7055,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
+1MS23CS8760,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
+1MS23CS3816,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
+1MS23CS179,1,MCS13,RMI,Research Methods for Engineers,BID32,A
+1MS23CS4656,1,MCS12,ADBMS,Database System Concepts,BID22,C
+1MS23CS4683,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
+1MS23CS3583,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,B
+1MS23CS4613,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,D
+1MS23CS6684,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
+1MS23CS8087,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
+1MS23CS5854,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,B
+1MS23CS2928,1,MCS13,RMI,Engineering Research Methodology,BID31,D
+1MS23CS7660,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
+1MS23CS3074,1,MCS14,VR,Virtual Reality,BID41,C
+1MS23CS5781,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,C
+1MS23CS6956,1,MCS13,RMI,Engineering Research Methodology,BID31,C
+1MS23CS185,1,MCS12,ADBMS,Database System Concepts,BID22,A
+1MS23CS6584,1,MCS14,VR,Virtual Reality,BID41,B
+1MS23CS8319,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
+1MS23CS9691,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,S
+1MS23CS475,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,A
+1MS23CS7668,1,MCS13,RMI,Engineering Research Methodology,BID31,B
+1MS23CS9766,1,MCS16,IoT,Internet of Things,BID61,D
+1MS23CS5584,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
+1MS23CS2648,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,S
+1MS23CS8378,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,S
+1MS23CS4028,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,B
+1MS23CS1228,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,D
+1MS23CS907,1,MCS14,VR,Virtual Reality,BID41,D
+1MS23CS6728,1,MCS13,RMI,Research Methods for Engineers,BID32,B
+1MS23CS7547,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
+1MS23CS9470,1,MCS14,VR,Virtual Reality,BID41,C
+1MS23CS168,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,B
+1MS23CS9184,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,C
+1MS23CS6451,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,B
+1MS23CS2631,1,MCS16,IoT,Internet of Things,BID61,B
+1MS23CS3004,1,MCS15,AIML,Machine Learning,BID52,B
+1MS23CS3531,1,MCS14,VR,Virtual Reality,BID41,A
+1MS23CS3685,1,MCS16,IoT,Internet of Things,BID61,S
+1MS23CS8302,1,MCS16,IoT,Internet of Things,BID61,B
+1MS23CS7746,1,MCS12,ADBMS,Database System Concepts,BID22,B
+1MS23CS1220,1,MCS12,ADBMS,Database System Concepts,BID22,C
+1MS23CS4457,1,MCS15,AIML,Machine Learning,BID52,D
+1MS23CS3907,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,D
+1MS23CS6117,1,MCS16,IoT,Internet of Things,BID61,S
+1MS23CS8123,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
+1MS23CS6882,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,A
+1MS23CS6387,1,MCS14,VR,Virtual Reality,BID41,A
+1MS23CS5365,1,MCS13,RMI,Engineering Research Methodology,BID31,C
+1MS23CS5893,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,S
+1MS23CS658,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,D
+1MS23CS1155,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
+1MS23CS1200,1,MCS13,RMI,Research Methods for Engineers,BID32,S
+1MS23CS4994,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,D
+1MS23CS1920,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
+1MS23CS2185,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
+1MS23CS7110,1,MCS15,AIML,Machine Learning,BID52,C
+1MS23CS423,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,S
+1MS23CS2961,1,MCS16,IoT,Internet of Things,BID61,S
+1MS23CS1090,1,MCS14,VR,Virtual Reality,BID41,S
+1MS23CS174,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
+1MS23CS9557,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,C
+1MS23CS2467,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
+1MS23CS3769,1,MCS14,VR,Virtual Reality,BID41,S
+1MS23CS5980,1,MCS16,IoT,Internet of Things,BID61,B
+1MS23CS5042,1,MCS14,VR,Virtual Reality,BID41,C
+1MS23CS1873,1,MCS15,AIML,Machine Learning,BID52,A
+1MS23CS2782,1,MCS13,RMI,Research Methods for Engineers,BID32,S
+1MS23CS7799,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
+1MS23CS2381,1,MCS14,VR,Virtual Reality,BID41,B
+1MS23CS7305,1,MCS15,AIML,Machine Learning,BID52,S
+1MS23CS5744,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
+1MS23CS8852,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,C
+1MS23CS2302,1,MCS16,IoT,Internet of Things,BID61,A
+1MS23CS2240,1,MCS14,VR,Virtual Reality,BID41,A
+1MS23CS1737,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
+1MS23CS1511,1,MCS13,RMI,Engineering Research Methodology,BID31,A
+1MS23CS5649,1,MCS13,RMI,Research Methods for Engineers,BID32,S
+1MS23CS327,1,MCS13,RMI,Research Methods for Engineers,BID32,A
+1MS23CS9217,1,MCS13,RMI,Research Methods for Engineers,BID32,A
+1MS23CS5808,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,A
+1MS23CS1076,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,S
+1MS23CS8083,1,MCS12,ADBMS,Database System Concepts,BID22,S
+1MS23CS7227,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
+1MS23CS7292,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
+1MS23CS5882,1,MCS15,AIML,Machine Learning,BID52,D
+1MS23CS1770,1,MCS13,RMI,Research Methods for Engineers,BID32,D
+1MS23CS2391,1,MCS16,IoT,Internet of Things,BID61,C
+1MS23CS677,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
+1MS23CS3910,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,A
+1MS23CS8900,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,C
+1MS23CS9463,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,C
+1MS23CS2540,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
+1MS23CS7538,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,C
+1MS23CS6747,1,MCS13,RMI,Engineering Research Methodology,BID31,B
+1MS23CS9973,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
+1MS23CS1607,1,MCS13,RMI,Engineering Research Methodology,BID31,A
+1MS23CS5375,1,MCS14,VR,Virtual Reality,BID41,A
+1MS23CS6986,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
+1MS23CS9389,1,MCS12,ADBMS,Database System Concepts,BID22,D
+1MS23CS9130,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,A
+1MS23CS5459,1,MCS16,IoT,Internet of Things,BID61,D
+1MS23CS231,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,S
+1MS23CS6700,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
+1MS23CS3162,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,D
+1MS23CS9762,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,D
+1MS23CS5214,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,D
+1MS23CS9020,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,A
+1MS23CS9610,1,MCS12,ADBMS,Database System Concepts,BID22,C
+1MS23CS3866,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,D
+1MS23CS4690,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
+1MS23CS3469,1,MCS12,ADBMS,Database System Concepts,BID22,S
+1MS23CS530,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,B
+1MS23CS9925,1,MCS16,IoT,Internet of Things,BID61,C
+1MS23CS5801,1,MCS13,RMI,Engineering Research Methodology,BID31,C
+1MS23CS7638,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
+1MS23CS3798,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,D
+1MS23CS7823,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,D
+1MS23CS6816,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
+1MS23CS8327,1,MCS13,RMI,Research Methods for Engineers,BID32,C
+1MS23CS8202,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
+1MS23CS8113,1,MCS13,RMI,Engineering Research Methodology,BID31,B
+1MS23CS9516,1,MCS15,AIML,Machine Learning,BID52,D
+1MS23CS9823,1,MCS14,VR,Virtual Reality,BID41,C
+1MS23CS9921,1,MCS13,RMI,Research Methods for Engineers,BID32,B
+1MS23CS8106,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
+1MS23CS9032,1,MCS15,AIML,Machine Learning,BID52,S
+1MS23CS3122,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,A
+1MS23CS3152,1,MCS16,IoT,Internet of Things,BID61,D
+1MS23CS9479,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
+1MS23CS5290,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,C
+1MS23CS7971,1,MCS16,IoT,Internet of Things,BID61,D
+1MS23CS6369,1,MCS15,AIML,Machine Learning,BID52,A
+1MS23CS3853,1,MCS13,RMI,Research Methods for Engineers,BID32,S
+1MS23CS306,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,B
+1MS23CS2241,1,MCS13,RMI,Engineering Research Methodology,BID31,A
+1MS23CS9238,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,C
+1MS23CS6756,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
+1MS23CS3749,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,B
+1MS23CS6592,1,MCS13,RMI,Engineering Research Methodology,BID31,C
+1MS23CS1353,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,D
+1MS23CS5258,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
+1MS23CS4940,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,B
+1MS23CS880,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
+1MS23CS8347,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,D
+1MS23CS9369,1,MCS13,RMI,Research Methods for Engineers,BID32,A
+1MS23CS2168,1,MCS15,AIML,Machine Learning,BID52,B
+1MS23CS2934,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
+1MS23CS7594,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,D
+1MS23CS7300,1,MCS13,RMI,Research Methods for Engineers,BID32,B
+1MS23CS7325,1,MCS16,IoT,Internet of Things,BID61,C
+1MS23CS7863,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,A
+1MS23CS1824,1,MCS14,VR,Virtual Reality,BID41,D
+1MS23CS5653,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,D
+1MS23CS2547,1,MCS12,ADBMS,Database System Concepts,BID22,A
+1MS23CS4145,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
+1MS23CS4769,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,A
+1MS23CS4155,1,MCS12,ADBMS,Database System Concepts,BID22,C
+1MS23CS7104,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,A
+1MS23CS7683,1,MCS13,RMI,Engineering Research Methodology,BID31,S
+1MS23CS9876,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
+1MS23CS3249,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
+1MS23CS8743,1,MCS14,VR,Virtual Reality,BID41,A
+1MS23CS9026,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,A
+1MS23CS2842,1,MCS14,VR,Virtual Reality,BID41,B
+1MS23CS8716,1,MCS13,RMI,Engineering Research Methodology,BID31,D
+1MS23CS492,1,MCS13,RMI,Engineering Research Methodology,BID31,B
+1MS23CS1024,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,A
+1MS23CS1853,1,MCS16,IoT,Internet of Things,BID61,D
+1MS23CS484,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,D
+1MS23CS944,1,MCS15,AIML,Machine Learning,BID52,A
+1MS23CS4008,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,C
+1MS23CS1821,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
+1MS23CS957,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,C
+1MS23CS7741,1,MCS13,RMI,Research Methods for Engineers,BID32,C
+1MS23CS7531,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,D
+1MS23CS5339,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
+1MS23CS5522,1,MCS15,AIML,Machine Learning,BID52,D
+1MS23CS4498,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,D
+1MS23CS7494,1,MCS13,RMI,Engineering Research Methodology,BID31,D
+1MS23CS4709,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
+1MS23CS433,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,C
+1MS23CS5700,1,MCS15,AIML,Machine Learning,BID52,C
+1MS23CS6438,1,MCS15,AIML,Machine Learning,BID52,D
+1MS23CS3661,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,S
+1MS23CS5776,1,MCS13,RMI,Engineering Research Methodology,BID31,D
+1MS23CS2554,1,MCS13,RMI,Engineering Research Methodology,BID31,C
+1MS23CS666,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
+1MS23CS7261,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
+1MS23CS9596,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
+1MS23CS49,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
+1MS23CS7993,1,MCS13,RMI,Research Methods for Engineers,BID32,D
+1MS23CS6502,1,MCS14,VR,Virtual Reality,BID41,B
+1MS23CS9854,1,MCS13,RMI,Engineering Research Methodology,BID31,D
+1MS23CS2674,1,MCS14,VR,Virtual Reality,BID41,D
+1MS23CS8431,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,B
+1MS23CS3300,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
+1MS23CS9732,1,MCS13,RMI,Engineering Research Methodology,BID31,B
+1MS23CS6078,1,MCS15,AIML,Machine Learning,BID52,S
+1MS23CS8507,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
+1MS23CS6601,1,MCS13,RMI,Engineering Research Methodology,BID31,B
+1MS23CS9768,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
+1MS23CS4431,1,MCS12,ADBMS,Database System Concepts,BID22,C
+1MS23CS1760,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
+1MS23CS183,1,MCS13,RMI,Engineering Research Methodology,BID31,A
+1MS23CS7541,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,B
+1MS23CS3597,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,B
+1MS23CS3530,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,A
+1MS23CS9346,1,MCS12,ADBMS,Database System Concepts,BID22,D
+1MS23CS3145,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
+1MS23CS5350,1,MCS14,VR,Virtual Reality,BID41,D
+1MS23CS1982,1,MCS16,IoT,Internet of Things,BID61,C
+1MS23CS6534,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
+1MS23CS7361,1,MCS12,ADBMS,Database System Concepts,BID22,S
+1MS23CS7893,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
+1MS23CS8198,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
+1MS23CS6016,1,MCS15,AIML,Machine Learning,BID52,A
+1MS23CS7727,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,D
+1MS23CS1278,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,B
+1MS23CS7754,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
+1MS23CS7373,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
+1MS23CS2801,1,MCS15,AIML,Machine Learning,BID52,B
+1MS23CS6445,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,C
+1MS23CS9329,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,A
+1MS23CS9473,1,MCS13,RMI,Engineering Research Methodology,BID31,B
+1MS23CS9288,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
+1MS23CS4175,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,B
+1MS23CS827,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,D
+1MS23CS6819,1,MCS14,VR,Virtual Reality,BID41,S
+1MS23CS1395,1,MCS15,AIML,Machine Learning,BID52,D
+1MS23CS3455,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,C
+1MS23CS1447,1,MCS13,RMI,Engineering Research Methodology,BID31,A
+1MS23CS2301,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,S
+1MS23CS8163,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
+1MS23CS6114,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,B
+1MS23CS8204,1,MCS15,AIML,Machine Learning,BID52,C
+1MS23CS7805,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
+1MS23CS1131,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,D
+1MS23CS6366,1,MCS13,RMI,Research Methods for Engineers,BID32,C
+1MS23CS3670,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
+1MS23CS9408,1,MCS15,AIML,Machine Learning,BID52,S
+1MS23CS8755,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,A
+1MS23CS2798,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
+1MS23CS8219,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
+1MS23CS9872,1,MCS13,RMI,Engineering Research Methodology,BID31,C
+1MS23CS1164,1,MCS13,RMI,Research Methods for Engineers,BID32,S
+1MS23CS18,1,MCS16,IoT,Internet of Things,BID61,A
+1MS23CS7811,1,MCS13,RMI,Engineering Research Methodology,BID31,C
+1MS23CS263,1,MCS13,RMI,Engineering Research Methodology,BID31,A
+1MS23CS8545,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,D
+1MS23CS9613,1,MCS13,RMI,Engineering Research Methodology,BID31,D
+1MS23CS4153,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
+1MS23CS5691,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,D
+1MS23CS5450,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,S
+1MS23CS1696,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,B
+1MS23CS990,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
+1MS23CS3015,1,MCS14,VR,Virtual Reality,BID41,C
+1MS23CS3881,1,MCS16,IoT,Internet of Things,BID61,A
+1MS23CS4325,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
+1MS23CS9503,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
+1MS23CS3535,1,MCS13,RMI,Engineering Research Methodology,BID31,C
+1MS23CS9833,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,S
+1MS23CS3909,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
+1MS23CS2964,1,MCS12,ADBMS,Database System Concepts,BID22,B
+1MS23CS6808,1,MCS16,IoT,Internet of Things,BID61,A
+1MS23CS8661,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
+1MS23CS6635,1,MCS13,RMI,Engineering Research Methodology,BID31,S
+1MS23CS2904,1,MCS13,RMI,Engineering Research Methodology,BID31,C
+1MS23CS2508,1,MCS12,ADBMS,Database System Concepts,BID22,C
+1MS23CS6318,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
+1MS23CS5743,1,MCS13,RMI,Research Methods for Engineers,BID32,S
+1MS23CS9300,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,D
+1MS23CS4962,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
+1MS23CS9482,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,B
+1MS23CS9440,1,MCS15,AIML,Machine Learning,BID52,B
+1MS23CS4697,1,MCS14,VR,Virtual Reality,BID41,D
+1MS23CS737,1,MCS14,VR,Virtual Reality,BID41,S
+1MS23CS731,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
+1MS23CS2590,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,S
+1MS23CS8286,1,MCS13,RMI,Engineering Research Methodology,BID31,B
+1MS23CS9384,1,MCS14,VR,Virtual Reality,BID41,S
+1MS23CS3029,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,B
+1MS23CS4937,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,A
+1MS23CS7141,1,MCS16,IoT,Internet of Things,BID61,A
+1MS23CS2590,1,MCS13,RMI,Engineering Research Methodology,BID31,A
+1MS23CS2667,1,MCS13,RMI,Research Methods for Engineers,BID32,A
+1MS23CS6683,1,MCS14,VR,Virtual Reality,BID41,C
+1MS23CS7430,1,MCS13,RMI,Research Methods for Engineers,BID32,D
+1MS23CS8021,1,MCS13,RMI,Engineering Research Methodology,BID31,D
+1MS23CS3924,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
+1MS23CS2325,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
+1MS23CS1112,1,MCS15,AIML,Machine Learning,BID52,S
+1MS23CS7193,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,A
+1MS23CS5788,1,MCS15,AIML,Machine Learning,BID52,A
+1MS23CS7501,1,MCS15,AIML,Machine Learning,BID52,A
+1MS23CS4569,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
+1MS23CS302,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
+1MS23CS5391,1,MCS14,VR,Virtual Reality,BID41,C
+1MS23CS3273,1,MCS13,RMI,Research Methods for Engineers,BID32,S
+1MS23CS2258,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
+1MS23CS2845,1,MCS14,VR,Virtual Reality,BID41,D
+1MS23CS4038,1,MCS16,IoT,Internet of Things,BID61,B
+1MS23CS8475,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,A
+1MS23CS9597,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
+1MS23CS2557,1,MCS14,VR,Virtual Reality,BID41,B
+1MS23CS6130,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,D
+1MS23CS8757,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
+1MS23CS4975,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,C
+1MS23CS5539,1,MCS16,IoT,Internet of Things,BID61,S
+1MS23CS2387,1,MCS13,RMI,Engineering Research Methodology,BID31,C
+1MS23CS1283,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,C
+1MS23CS3601,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
+1MS23CS8050,1,MCS13,RMI,Research Methods for Engineers,BID32,D
+1MS23CS1523,1,MCS13,RMI,Engineering Research Methodology,BID31,S
+1MS23CS572,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
+1MS23CS1223,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,S
+1MS23CS5701,1,MCS15,AIML,Machine Learning,BID52,D
+1MS23CS835,1,MCS15,AIML,Machine Learning,BID52,D
+1MS23CS972,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,C
+1MS23CS152,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
+1MS23CS2481,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,A
+1MS23CS3031,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,A
+1MS23CS2717,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,B
+1MS23CS8402,1,MCS14,VR,Virtual Reality,BID41,B
+1MS23CS7555,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,S
+1MS23CS7586,1,MCS13,RMI,Engineering Research Methodology,BID31,A
+1MS23CS6872,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
+1MS23CS8662,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
+1MS23CS9219,1,MCS14,VR,Virtual Reality,BID41,D
+1MS23CS8435,1,MCS15,AIML,Machine Learning,BID52,C
+1MS23CS5463,1,MCS13,RMI,Research Methods for Engineers,BID32,B
+1MS23CS8233,1,MCS14,VR,Virtual Reality,BID41,A
+1MS23CS9593,1,MCS13,RMI,Engineering Research Methodology,BID31,C
+1MS23CS2919,1,MCS12,ADBMS,Database System Concepts,BID22,C
+1MS23CS7389,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,C
+1MS23CS3555,1,MCS14,VR,Virtual Reality,BID41,D
+1MS23CS2861,1,MCS13,RMI,Engineering Research Methodology,BID31,B
+1MS23CS2909,1,MCS12,ADBMS,Database System Concepts,BID22,B
+1MS23CS199,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
+1MS23CS2090,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,S
+1MS23CS417,1,MCS15,AIML,Machine Learning,BID52,B
+1MS23CS8091,1,MCS13,RMI,Engineering Research Methodology,BID31,B
+1MS23CS100,1,MCS15,AIML,Machine Learning,BID52,B
+1MS23CS1490,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
+1MS23CS2284,1,MCS14,VR,Virtual Reality,BID41,S
+1MS23CS9940,1,MCS13,RMI,Engineering Research Methodology,BID31,D
+1MS23CS4745,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,C
+1MS23CS7485,1,MCS16,IoT,Internet of Things,BID61,D
+1MS23CS643,1,MCS13,RMI,Research Methods for Engineers,BID32,S
+1MS23CS1434,1,MCS13,RMI,Research Methods for Engineers,BID32,S
+1MS23CS7281,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,A
+1MS23CS9043,1,MCS13,RMI,Engineering Research Methodology,BID31,C
+1MS23CS3582,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
+1MS23CS1142,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
+1MS23CS411,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
+1MS23CS851,1,MCS13,RMI,Research Methods for Engineers,BID32,C
+1MS23CS3862,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
+1MS23CS3958,1,MCS13,RMI,Engineering Research Methodology,BID31,B
+1MS23CS213,1,MCS14,VR,Virtual Reality,BID41,S
+1MS23CS3510,1,MCS12,ADBMS,Database System Concepts,BID22,A
+1MS23CS3678,1,MCS14,VR,Virtual Reality,BID41,A
+1MS23CS9380,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,A
+1MS23CS9813,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
+1MS23CS6411,1,MCS16,IoT,Internet of Things,BID61,D
+1MS23CS8444,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,S
+1MS23CS566,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,C
+1MS23CS6431,1,MCS12,ADBMS,Database System Concepts,BID22,D
+1MS23CS5233,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,D
+1MS23CS9385,1,MCS13,RMI,Research Methods for Engineers,BID32,B
+1MS23CS2773,1,MCS13,RMI,Research Methods for Engineers,BID32,A
+1MS23CS3818,1,MCS12,ADBMS,Database System Concepts,BID22,S
+1MS23CS6546,1,MCS14,VR,Virtual Reality,BID41,A
+1MS23CS296,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
+1MS23CS3629,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
+1MS23CS9115,1,MCS14,VR,Virtual Reality,BID41,B
+1MS23CS810,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,D
+1MS23CS5154,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,C
+1MS23CS3952,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,B
+1MS23CS3879,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,B
+1MS23CS6423,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
+1MS23CS3044,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,A
+1MS23CS619,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,B
+1MS23CS3376,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,S
+1MS23CS1686,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,D
+1MS23CS6996,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
+1MS23CS2582,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,C
+1MS23CS2290,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,D
+1MS23CS8853,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
+1MS23CS9880,1,MCS15,AIML,Machine Learning,BID52,A
+1MS23CS7996,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,B
+1MS23CS5449,1,MCS15,AIML,Machine Learning,BID52,B
+1MS23CS1905,1,MCS16,IoT,Internet of Things,BID61,B
+1MS23CS7606,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,S
+1MS23CS942,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
+1MS23CS8213,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,A
+1MS23CS5699,1,MCS16,IoT,Internet of Things,BID61,B
+1MS23CS9860,1,MCS14,VR,Virtual Reality,BID41,C
+1MS23CS5797,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
+1MS23CS820,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,D
+1MS23CS8073,1,MCS13,RMI,Engineering Research Methodology,BID31,S
+1MS23CS2539,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,A
+1MS23CS9790,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,D
+1MS23CS2043,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
+1MS23CS3688,1,MCS16,IoT,Internet of Things,BID61,B
+1MS23CS285,1,MCS14,VR,Virtual Reality,BID41,C
+1MS23CS7574,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
+1MS23CS322,1,MCS16,IoT,Internet of Things,BID61,S
+1MS23CS2357,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
+1MS23CS3651,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,B
+1MS23CS3282,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,A
+1MS23CS3134,1,MCS15,AIML,Machine Learning,BID52,C
+1MS23CS1640,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
+1MS23CS758,1,MCS12,ADBMS,Database System Concepts,BID22,C
+1MS23CS5951,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
+1MS23CS8953,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
+1MS23CS9465,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,S
+1MS23CS8494,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
+1MS23CS6069,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,S
+1MS23CS8039,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
+1MS23CS1970,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
+1MS23CS6734,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,B
+1MS23CS4462,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,S
+1MS23CS6684,1,MCS14,VR,Virtual Reality,BID41,C
+1MS23CS2742,1,MCS13,RMI,Engineering Research Methodology,BID31,B
+1MS23CS8699,1,MCS13,RMI,Engineering Research Methodology,BID31,S
+1MS23CS1569,1,MCS14,VR,Virtual Reality,BID41,S
+1MS23CS8198,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
+1MS23CS2275,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
+1MS23CS8367,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,D
+1MS23CS4476,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,A
+1MS23CS1670,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,B
+1MS23CS6741,1,MCS13,RMI,Engineering Research Methodology,BID31,B
+1MS23CS6022,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,S
+1MS23CS5897,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,A
+1MS23CS2614,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,C
+1MS23CS113,1,MCS16,IoT,Internet of Things,BID61,D
+1MS23CS609,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,B
+1MS23CS8946,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
+1MS23CS659,1,MCS14,VR,Virtual Reality,BID41,S
+1MS23CS347,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
+1MS23CS5811,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,A
+1MS23CS4382,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,B
+1MS23CS1999,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,C
+1MS23CS5708,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,C
+1MS23CS9367,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
+1MS23CS9580,1,MCS13,RMI,Research Methods for Engineers,BID32,B
+1MS23CS8887,1,MCS13,RMI,Research Methods for Engineers,BID32,D
+1MS23CS460,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,C
+1MS23CS3439,1,MCS15,AIML,Machine Learning,BID52,D
+1MS23CS8577,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,S
+1MS23CS6569,1,MCS13,RMI,Research Methods for Engineers,BID32,D
+1MS23CS1620,1,MCS13,RMI,Engineering Research Methodology,BID31,S
+1MS23CS8999,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,S
+1MS23CS2487,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,D
+1MS23CS3044,1,MCS15,AIML,Machine Learning,BID52,S
+1MS23CS5109,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,B
+1MS23CS6682,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,A
+1MS23CS492,1,MCS12,ADBMS,Database System Concepts,BID22,D
+1MS23CS5047,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,B
+1MS23CS67,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,B
+1MS23CS5521,1,MCS13,RMI,Engineering Research Methodology,BID31,B
+1MS23CS4396,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,B
+1MS23CS3140,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,B
+1MS23CS6832,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
+1MS23CS3547,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
+1MS23CS7166,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
+1MS23CS3016,1,MCS16,IoT,Internet of Things,BID61,A
+1MS23CS8799,1,MCS13,RMI,Engineering Research Methodology,BID31,D
+1MS23CS8238,1,MCS13,RMI,Research Methods for Engineers,BID32,S
+1MS23CS6050,1,MCS15,AIML,Machine Learning,BID52,S
+1MS23CS5363,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
+1MS23CS7349,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,B
+1MS23CS6601,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
+1MS23CS2953,1,MCS12,ADBMS,Database System Concepts,BID22,D
+1MS23CS8325,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
+1MS23CS2712,1,MCS13,RMI,Research Methods for Engineers,BID32,C
+1MS23CS9071,1,MCS13,RMI,Engineering Research Methodology,BID31,C
+1MS23CS2918,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,D
+1MS23CS6558,1,MCS16,IoT,Internet of Things,BID61,A
+1MS23CS4962,1,MCS14,VR,Virtual Reality,BID41,B
+1MS23CS5499,1,MCS13,RMI,Engineering Research Methodology,BID31,A
+1MS23CS5463,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
+1MS23CS8103,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
+1MS23CS7534,1,MCS13,RMI,Research Methods for Engineers,BID32,B
+1MS23CS3403,1,MCS13,RMI,Engineering Research Methodology,BID31,C
+1MS23CS1899,1,MCS12,ADBMS,Database System Concepts,BID22,D
+1MS23CS6534,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
+1MS23CS5618,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
+1MS23CS7624,1,MCS12,ADBMS,Database System Concepts,BID22,S
+1MS23CS8171,1,MCS16,IoT,Internet of Things,BID61,D
+1MS23CS5741,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
+1MS23CS663,1,MCS15,AIML,Machine Learning,BID52,B
+1MS23CS2737,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,S
+1MS23CS1273,1,MCS13,RMI,Research Methods for Engineers,BID32,B
+1MS23CS3255,1,MCS13,RMI,Research Methods for Engineers,BID32,D
+1MS23CS3469,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
+1MS23CS2816,1,MCS16,IoT,Internet of Things,BID61,B
+1MS23CS7122,1,MCS16,IoT,Internet of Things,BID61,A
+1MS23CS3387,1,MCS16,IoT,Internet of Things,BID61,C
+1MS23CS4278,1,MCS13,RMI,Engineering Research Methodology,BID31,S
+1MS23CS4924,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
+1MS23CS6563,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,B
+1MS23CS7285,1,MCS16,IoT,Internet of Things,BID61,A
+1MS23CS1523,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
+1MS23CS4152,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,D
+1MS23CS5846,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,B
+1MS23CS567,1,MCS15,AIML,Machine Learning,BID52,A
+1MS23CS2525,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,A
+1MS23CS8355,1,MCS14,VR,Virtual Reality,BID41,D
+1MS23CS3986,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,A
+1MS23CS890,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
+1MS23CS2394,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,S
+1MS23CS8772,1,MCS15,AIML,Machine Learning,BID52,D
+1MS23CS796,1,MCS12,ADBMS,Database System Concepts,BID22,S
+1MS23CS7921,1,MCS16,IoT,Internet of Things,BID61,C
+1MS23CS7356,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,C
+1MS23CS7506,1,MCS12,ADBMS,Database System Concepts,BID22,C
+1MS23CS379,1,MCS15,AIML,Machine Learning,BID52,S
+1MS23CS177,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
+1MS23CS5950,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
+1MS23CS6943,1,MCS14,VR,Virtual Reality,BID41,C
+1MS23CS5579,1,MCS12,ADBMS,Database System Concepts,BID22,C
+1MS23CS3427,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,B
+1MS23CS4228,1,MCS16,IoT,Internet of Things,BID61,D
+1MS23CS1770,1,MCS13,RMI,Research Methods for Engineers,BID32,A
+1MS23CS8299,1,MCS13,RMI,Engineering Research Methodology,BID31,C
+1MS23CS9475,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
+1MS23CS4342,1,MCS14,VR,Virtual Reality,BID41,D
+1MS23CS9016,1,MCS16,IoT,Internet of Things,BID61,S
+1MS23CS6190,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,C
+1MS23CS8242,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,D
+1MS23CS6397,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,B
+1MS23CS380,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,B
+1MS23CS602,1,MCS16,IoT,Internet of Things,BID61,B
+1MS23CS1586,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,C
+1MS23CS3290,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
+1MS23CS417,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,A
+1MS23CS1892,1,MCS16,IoT,Internet of Things,BID61,B
+1MS23CS344,1,MCS14,VR,Virtual Reality,BID41,D
+1MS23CS5835,1,MCS16,IoT,Internet of Things,BID61,A
+1MS23CS9421,1,MCS14,VR,Virtual Reality,BID41,S
+1MS23CS3710,1,MCS15,AIML,Machine Learning,BID52,D
+1MS23CS350,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,C
+1MS23CS9409,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
+1MS23CS2398,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,B
+1MS23CS8071,1,MCS14,VR,Virtual Reality,BID41,A
+1MS23CS795,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,S
+1MS23CS8005,1,MCS12,ADBMS,Database System Concepts,BID22,C
+1MS23CS5134,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,D
+1MS23CS9393,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,D
+1MS23CS8802,1,MCS13,RMI,Research Methods for Engineers,BID32,C
+1MS23CS1589,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
+1MS23CS9440,1,MCS13,RMI,Research Methods for Engineers,BID32,C
+1MS23CS1053,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,C
+1MS23CS5209,1,MCS15,AIML,Machine Learning,BID52,B
+1MS23CS553,1,MCS13,RMI,Engineering Research Methodology,BID31,D
+1MS23CS7213,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,D
+1MS23CS5293,1,MCS12,ADBMS,Database System Concepts,BID22,D
+1MS23CS6017,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
+1MS23CS4268,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
+1MS23CS2626,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,C
+1MS23CS3046,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
+1MS23CS4191,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
+1MS23CS197,1,MCS13,RMI,Engineering Research Methodology,BID31,A
+1MS23CS2955,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,B
+1MS23CS415,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,D
+1MS23CS5877,1,MCS14,VR,Virtual Reality,BID41,S
+1MS23CS2111,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,A
+1MS23CS5867,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
+1MS23CS1955,1,MCS13,RMI,Research Methods for Engineers,BID32,C
+1MS23CS9256,1,MCS14,VR,Virtual Reality,BID41,D
+1MS23CS9719,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,D
+1MS23CS3301,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,D
+1MS23CS9016,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
+1MS23CS3235,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,B
+1MS23CS6792,1,MCS16,IoT,Internet of Things,BID61,C
+1MS23CS1552,1,MCS14,VR,Virtual Reality,BID41,A
+1MS23CS3531,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,D
+1MS23CS6960,1,MCS15,AIML,Machine Learning,BID52,D
+1MS23CS4127,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
+1MS23CS4416,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,D
+1MS23CS5586,1,MCS12,ADBMS,Database System Concepts,BID22,D
+1MS23CS1804,1,MCS15,AIML,Machine Learning,BID52,D
+1MS23CS3657,1,MCS14,VR,Virtual Reality,BID41,C
+1MS23CS8604,1,MCS13,RMI,Research Methods for Engineers,BID32,S
+1MS23CS4074,1,MCS13,RMI,Research Methods for Engineers,BID32,B
+1MS23CS1078,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,D
+1MS23CS7423,1,MCS13,RMI,Research Methods for Engineers,BID32,A
+1MS23CS9011,1,MCS16,IoT,Internet of Things,BID61,A
+1MS23CS816,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
+1MS23CS6222,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,C
+1MS23CS1491,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,S
+1MS23CS8341,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,A
+1MS23CS4428,1,MCS12,ADBMS,Database System Concepts,BID22,B
+1MS23CS9393,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,D
+1MS23CS8163,1,MCS16,IoT,Internet of Things,BID61,B
+1MS23CS7400,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,C
+1MS23CS2700,1,MCS12,ADBMS,Database System Concepts,BID22,A
+1MS23CS7933,1,MCS13,RMI,Research Methods for Engineers,BID32,S
+1MS23CS4298,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,B
+1MS23CS1226,1,MCS13,RMI,Research Methods for Engineers,BID32,A
+1MS23CS588,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,A
+1MS23CS557,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,D
+1MS23CS6619,1,MCS14,VR,Virtual Reality,BID41,C
+1MS23CS9287,1,MCS15,AIML,Machine Learning,BID52,D
+1MS23CS5581,1,MCS12,ADBMS,Database System Concepts,BID22,B
+1MS23CS506,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
+1MS23CS8002,1,MCS16,IoT,Internet of Things,BID61,A
+1MS23CS1255,1,MCS16,IoT,Internet of Things,BID61,B
+1MS23CS1182,1,MCS13,RMI,Research Methods for Engineers,BID32,S
+1MS23CS2383,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
+1MS23CS2970,1,MCS15,AIML,Machine Learning,BID52,A
+1MS23CS5321,1,MCS13,RMI,Engineering Research Methodology,BID31,A
+1MS23CS8883,1,MCS12,ADBMS,Database System Concepts,BID22,C
+1MS23CS6301,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
+1MS23CS8786,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,B
+1MS23CS3320,1,MCS13,RMI,Engineering Research Methodology,BID31,B
+1MS23CS9427,1,MCS13,RMI,Research Methods for Engineers,BID32,A
+1MS23CS6075,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
+1MS23CS2160,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
+1MS23CS8574,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,D
+1MS23CS9223,1,MCS13,RMI,Research Methods for Engineers,BID32,D
+1MS23CS6095,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
+1MS23CS5551,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
+1MS23CS5096,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
+1MS23CS4770,1,MCS13,RMI,Engineering Research Methodology,BID31,B
+1MS23CS8802,1,MCS13,RMI,Research Methods for Engineers,BID32,A
+1MS23CS66,1,MCS15,AIML,Machine Learning,BID52,C
+1MS23CS5339,1,MCS13,RMI,Research Methods for Engineers,BID32,A
+1MS23CS6772,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
+1MS23CS4865,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,D
+1MS23CS8841,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,S
+1MS23CS5847,1,MCS15,AIML,Machine Learning,BID52,B
+1MS23CS4604,1,MCS14,VR,Virtual Reality,BID41,S
+1MS23CS1720,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
+1MS23CS706,1,MCS13,RMI,Research Methods for Engineers,BID32,D
+1MS23CS9774,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,D
+1MS23CS7571,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
+1MS23CS3097,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
+1MS23CS3812,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,B
+1MS23CS9007,1,MCS12,ADBMS,Database System Concepts,BID22,A
+1MS23CS6974,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,C
+1MS23CS7649,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,B
+1MS23CS4319,1,MCS13,RMI,Research Methods for Engineers,BID32,S
+1MS23CS2474,1,MCS14,VR,Virtual Reality,BID41,C
+1MS23CS3427,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
+1MS23CS3123,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,B
+1MS23CS3930,1,MCS15,AIML,Machine Learning,BID52,D
+1MS23CS8292,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,C
+1MS23CS2473,1,MCS15,AIML,Machine Learning,BID52,A
+1MS23CS1294,1,MCS14,VR,Virtual Reality,BID41,D
+1MS23CS7586,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,A
+1MS23CS3764,1,MCS15,AIML,Machine Learning,BID52,B
+1MS23CS4700,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,D
+1MS23CS3340,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,S
+1MS23CS913,1,MCS16,IoT,Internet of Things,BID61,A
+1MS23CS3817,1,MCS16,IoT,Internet of Things,BID61,D
+1MS23CS3215,1,MCS15,AIML,Machine Learning,BID52,A
+1MS23CS7484,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
+1MS23CS1153,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
+1MS23CS2849,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
+1MS23CS2822,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,A
+1MS23CS2084,1,MCS14,VR,Virtual Reality,BID41,S
+1MS23CS8358,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
+1MS23CS3058,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
+1MS23CS4292,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
+1MS23CS271,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,A
+1MS23CS7960,1,MCS15,AIML,Machine Learning,BID52,A
+1MS23CS940,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,A
+1MS23CS4273,1,MCS14,VR,Virtual Reality,BID41,C
+1MS23CS5700,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
+1MS23CS7366,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,D
+1MS23CS4906,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,A
+1MS23CS717,1,MCS16,IoT,Internet of Things,BID61,B
+1MS23CS6500,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
+1MS23CS338,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
+1MS23CS3327,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
+1MS23CS496,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,C
+1MS23CS3733,1,MCS14,VR,Virtual Reality,BID41,A
+1MS23CS4866,1,MCS16,IoT,Internet of Things,BID61,B
+1MS23CS6733,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
+1MS23CS7296,1,MCS13,RMI,Engineering Research Methodology,BID31,C
+1MS23CS8713,1,MCS12,ADBMS,Database System Concepts,BID22,D
+1MS23CS9632,1,MCS13,RMI,Engineering Research Methodology,BID31,B
+1MS23CS8339,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
+1MS23CS3150,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
+1MS23CS9449,1,MCS12,ADBMS,Database System Concepts,BID22,A
+1MS23CS1464,1,MCS12,ADBMS,Database System Concepts,BID22,B
+1MS23CS342,1,MCS13,RMI,Engineering Research Methodology,BID31,B
+1MS23CS1165,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,C
+1MS23CS9477,1,MCS16,IoT,Internet of Things,BID61,C
+1MS23CS6689,1,MCS14,VR,Virtual Reality,BID41,C
+1MS23CS1329,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
+1MS23CS1072,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,D
+1MS23CS4002,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
+1MS23CS2481,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,B
+1MS23CS546,1,MCS13,RMI,Engineering Research Methodology,BID31,D
+1MS23CS9736,1,MCS15,AIML,Machine Learning,BID52,S
+1MS23CS2676,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
+1MS23CS2194,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,A
+1MS23CS1729,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,C
+1MS23CS6667,1,MCS13,RMI,Engineering Research Methodology,BID31,C
+1MS23CS3663,1,MCS16,IoT,Internet of Things,BID61,B
+1MS23CS9619,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,D
+1MS23CS2328,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
+1MS23CS3692,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
+1MS23CS6218,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,B
+1MS23CS3660,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,D
+1MS23CS8651,1,MCS12,ADBMS,Database System Concepts,BID22,D
+1MS23CS8990,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,A
+1MS23CS5789,1,MCS15,AIML,Machine Learning,BID52,S
+1MS23CS7749,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,D
+1MS23CS3064,1,MCS15,AIML,Machine Learning,BID52,A
+1MS23CS8308,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
+1MS23CS7573,1,MCS13,RMI,Research Methods for Engineers,BID32,D
+1MS23CS1561,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,S
+1MS23CS302,1,MCS15,AIML,Machine Learning,BID52,A
+1MS23CS9204,1,MCS12,ADBMS,Database System Concepts,BID22,C
+1MS23CS6469,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
+1MS23CS7210,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
+1MS23CS3835,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,B
+1MS23CS7846,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
+1MS23CS2462,1,MCS16,IoT,Internet of Things,BID61,B
+1MS23CS7127,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
+1MS23CS7587,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
+1MS23CS3065,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
+1MS23CS4920,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
+1MS23CS7657,1,MCS13,RMI,Engineering Research Methodology,BID31,S
+1MS23CS606,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,A
+1MS23CS7257,1,MCS16,IoT,Internet of Things,BID61,C
+1MS23CS1975,1,MCS14,VR,Virtual Reality,BID41,D
+1MS23CS9500,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
+1MS23CS4218,1,MCS15,AIML,Machine Learning,BID52,C
+1MS23CS7260,1,MCS13,RMI,Research Methods for Engineers,BID32,B
+1MS23CS1833,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,D
+1MS23CS9866,1,MCS14,VR,Virtual Reality,BID41,S
+1MS23CS4751,1,MCS14,VR,Virtual Reality,BID41,D
+1MS23CS2788,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
+1MS23CS653,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,S
+1MS23CS2611,1,MCS13,RMI,Research Methods for Engineers,BID32,A
+1MS23CS9728,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,B
+1MS23CS1443,1,MCS13,RMI,Research Methods for Engineers,BID32,B
+1MS23CS4026,1,MCS12,ADBMS,Database System Concepts,BID22,B
+1MS23CS6745,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,A
+1MS23CS4824,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,C
+1MS23CS4315,1,MCS13,RMI,Engineering Research Methodology,BID31,D
+1MS23CS2817,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,D
+1MS23CS9398,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
+1MS23CS229,1,MCS16,IoT,Internet of Things,BID61,A
+1MS23CS3326,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,A
+1MS23CS6389,1,MCS13,RMI,Research Methods for Engineers,BID32,C
+1MS23CS7239,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,B
+1MS23CS6493,1,MCS15,AIML,Machine Learning,BID52,S
+1MS23CS1384,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
+1MS23CS6334,1,MCS13,RMI,Engineering Research Methodology,BID31,A
+1MS23CS3600,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
+1MS23CS1747,1,MCS13,RMI,Research Methods for Engineers,BID32,S
+1MS23CS7360,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
+1MS23CS1096,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
+1MS23CS91,1,MCS15,AIML,Machine Learning,BID52,D
+1MS23CS4053,1,MCS16,IoT,Internet of Things,BID61,S
+1MS23CS7522,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
+1MS23CS8271,1,MCS13,RMI,Research Methods for Engineers,BID32,B
+1MS23CS1363,1,MCS14,VR,Virtual Reality,BID41,S
+1MS23CS8128,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
+1MS23CS1083,1,MCS16,IoT,Internet of Things,BID61,A
+1MS23CS2521,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,A
+1MS23CS1273,1,MCS15,AIML,Machine Learning,BID52,C
+1MS23CS4326,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
+1MS23CS8924,1,MCS12,ADBMS,Database System Concepts,BID22,S
+1MS23CS1409,1,MCS12,ADBMS,Database System Concepts,BID22,B
+1MS23CS306,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,D
+1MS23CS7625,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,C
+1MS23CS5089,1,MCS12,ADBMS,Database System Concepts,BID22,B
+1MS23CS1828,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
+1MS23CS8941,1,MCS13,RMI,Engineering Research Methodology,BID31,A
+1MS23CS9659,1,MCS14,VR,Virtual Reality,BID41,D
+1MS23CS325,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,A
+1MS23CS7957,1,MCS15,AIML,Machine Learning,BID52,C
+1MS23CS6772,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,C
+1MS23CS8577,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,C
+1MS23CS7387,1,MCS12,ADBMS,Database System Concepts,BID22,C
+1MS23CS5849,1,MCS13,RMI,Research Methods for Engineers,BID32,C
+1MS23CS7392,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
+1MS23CS1335,1,MCS13,RMI,Engineering Research Methodology,BID31,C
+1MS23CS4637,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
+1MS23CS3269,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,B
+1MS23CS2739,1,MCS14,VR,Virtual Reality,BID41,D
+1MS23CS6869,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,S
+1MS23CS8568,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,B
+1MS23CS9998,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,B
+1MS23CS761,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,C
+1MS23CS2983,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,S
+1MS23CS3278,1,MCS13,RMI,Research Methods for Engineers,BID32,A
+1MS23CS4653,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,B
+1MS23CS4923,1,MCS15,AIML,Machine Learning,BID52,S
+1MS23CS6614,1,MCS15,AIML,Machine Learning,BID52,D
+1MS23CS3952,1,MCS15,AIML,Machine Learning,BID52,S
+1MS23CS3833,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
+1MS23CS724,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
+1MS23CS7365,1,MCS15,AIML,Machine Learning,BID52,C
+1MS23CS8314,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,D
+1MS23CS8771,1,MCS15,AIML,Machine Learning,BID52,D
+1MS23CS4619,1,MCS13,RMI,Engineering Research Methodology,BID31,B
+1MS23CS9064,1,MCS15,AIML,Machine Learning,BID52,A
+1MS23CS4568,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,D
+1MS23CS1878,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,C
+1MS23CS7858,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
+1MS23CS6861,1,MCS13,RMI,Research Methods for Engineers,BID32,D
+1MS23CS4559,1,MCS16,IoT,Internet of Things,BID61,D
+1MS23CS6738,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,D
+1MS23CS8210,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
+1MS23CS9035,1,MCS13,RMI,Research Methods for Engineers,BID32,S
+1MS23CS6988,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,C
+1MS23CS1299,1,MCS13,RMI,Engineering Research Methodology,BID31,A
+1MS23CS8627,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,A
+1MS23CS637,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
+1MS23CS26,1,MCS13,RMI,Research Methods for Engineers,BID32,S
+1MS23CS5855,1,MCS12,ADBMS,Database System Concepts,BID22,B
+1MS23CS6063,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
+1MS23CS2294,1,MCS15,AIML,Machine Learning,BID52,A
+1MS23CS6002,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,B
+1MS23CS2537,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
+1MS23CS4565,1,MCS15,AIML,Machine Learning,BID52,B
+1MS23CS1800,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,A
+1MS23CS6992,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,D
+1MS23CS4621,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,C
+1MS23CS2804,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
+1MS23CS6512,1,MCS15,AIML,Machine Learning,BID52,D
+1MS23CS511,1,MCS15,AIML,Machine Learning,BID52,D
+1MS23CS7546,1,MCS15,AIML,Machine Learning,BID52,C
+1MS23CS2940,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,A
+1MS23CS7553,1,MCS13,RMI,Engineering Research Methodology,BID31,D
+1MS23CS5934,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,B
+1MS23CS2321,1,MCS16,IoT,Internet of Things,BID61,B
+1MS23CS6245,1,MCS16,IoT,Internet of Things,BID61,A
+1MS23CS5404,1,MCS13,RMI,Research Methods for Engineers,BID32,D
+1MS23CS1697,1,MCS13,RMI,Research Methods for Engineers,BID32,A
+1MS23CS586,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,D
+1MS23CS2004,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
+1MS23CS2706,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
+1MS23CS5288,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
+1MS23CS9219,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
+1MS23CS9029,1,MCS13,RMI,Engineering Research Methodology,BID31,S
+1MS23CS1684,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,D
+1MS23CS2736,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,A
+1MS23CS9011,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,B
+1MS23CS1931,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,S
+1MS23CS9703,1,MCS15,AIML,Machine Learning,BID52,B
+1MS23CS2958,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,A
+1MS23CS511,1,MCS16,IoT,Internet of Things,BID61,B
+1MS23CS3844,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,S
+1MS23CS565,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
+1MS23CS2825,1,MCS16,IoT,Internet of Things,BID61,A
+1MS23CS1845,1,MCS13,RMI,Research Methods for Engineers,BID32,B
+1MS23CS4157,1,MCS12,ADBMS,Database System Concepts,BID22,C
+1MS23CS7959,1,MCS14,VR,Virtual Reality,BID41,D
+1MS23CS9561,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,A
+1MS23CS835,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
+1MS23CS4378,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
+1MS23CS3265,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,S
 1MS23CS8102,1,MCS15,AIML,Machine Learning,BID52,A
-1MS23CS3639,1,MCS16,IoT,Internet of Things,BID61,A
-1MS23CS9122,1,MCS15,AIML,Machine Learning,BID52,D
-1MS23CS2993,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
-1MS23CS7585,1,MCS13,RMI,Engineering Research Methodology,BID31,B
-1MS23CS4450,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
-1MS23CS3754,1,MCS13,RMI,Engineering Research Methodology,BID31,A
-1MS23CS5210,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,S
-1MS23CS1683,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
-1MS23CS6467,1,MCS16,IoT,Internet of Things,BID61,A
-1MS23CS8045,1,MCS13,RMI,Research Methods for Engineers,BID32,S
-1MS23CS4432,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,C
-1MS23CS8267,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,D
-1MS23CS9132,1,MCS14,VR,Virtual Reality,BID41,C
-1MS23CS111,1,MCS13,RMI,Research Methods for Engineers,BID32,B
-1MS23CS6052,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,B
-1MS23CS1641,1,MCS14,VR,Virtual Reality,BID41,C
-1MS23CS5744,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,A
-1MS23CS2733,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,B
-1MS23CS9441,1,MCS15,AIML,Machine Learning,BID52,A
-1MS23CS2505,1,MCS14,VR,Virtual Reality,BID41,D
-1MS23CS3363,1,MCS13,RMI,Engineering Research Methodology,BID31,A
-1MS23CS8503,1,MCS13,RMI,Research Methods for Engineers,BID32,A
-1MS23CS5134,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
-1MS23CS2187,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
-1MS23CS873,1,MCS13,RMI,Research Methods for Engineers,BID32,A
-1MS23CS4197,1,MCS12,ADBMS,Database System Concepts,BID22,B
-1MS23CS2576,1,MCS15,AIML,Machine Learning,BID52,D
-1MS23CS8565,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
-1MS23CS1350,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,D
-1MS23CS7906,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,B
-1MS23CS432,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
-1MS23CS2362,1,MCS13,RMI,Engineering Research Methodology,BID31,C
-1MS23CS7695,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,D
-1MS23CS4956,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,B
-1MS23CS2226,1,MCS13,RMI,Engineering Research Methodology,BID31,D
-1MS23CS8976,1,MCS13,RMI,Research Methods for Engineers,BID32,C
-1MS23CS8826,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
-1MS23CS5837,1,MCS12,ADBMS,Database System Concepts,BID22,B
-1MS23CS594,1,MCS16,IoT,Internet of Things,BID61,B
-1MS23CS9335,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
-1MS23CS5964,1,MCS14,VR,Virtual Reality,BID41,A
-1MS23CS239,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
-1MS23CS1423,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
-1MS23CS9606,1,MCS14,VR,Virtual Reality,BID41,A
-1MS23CS1059,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,C
-1MS23CS4562,1,MCS14,VR,Virtual Reality,BID41,A
-1MS23CS3448,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,A
-1MS23CS4972,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,A
-1MS23CS9746,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,B
-1MS23CS1493,1,MCS16,IoT,Internet of Things,BID61,S
-1MS23CS6589,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,B
-1MS23CS4418,1,MCS15,AIML,Machine Learning,BID52,S
-1MS23CS6544,1,MCS15,AIML,Machine Learning,BID52,S
-1MS23CS113,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
-1MS23CS808,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
-1MS23CS9314,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,A
-1MS23CS2116,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
-1MS23CS7384,1,MCS14,VR,Virtual Reality,BID41,C
-1MS23CS8826,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,D
-1MS23CS5039,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
-1MS23CS3647,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
-1MS23CS3726,1,MCS13,RMI,Engineering Research Methodology,BID31,S
-1MS23CS8468,1,MCS12,ADBMS,Database System Concepts,BID22,B
-1MS23CS8954,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
-1MS23CS6204,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
-1MS23CS6893,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,D
-1MS23CS2429,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,C
-1MS23CS5738,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
-1MS23CS2963,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,B
-1MS23CS9064,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,D
-1MS23CS7652,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
-1MS23CS5436,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,A
-1MS23CS1575,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
-1MS23CS6632,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,A
-1MS23CS3126,1,MCS15,AIML,Machine Learning,BID52,C
-1MS23CS939,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,C
-1MS23CS8756,1,MCS15,AIML,Machine Learning,BID52,A
-1MS23CS622,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,S
-1MS23CS3750,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
-1MS23CS7173,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,B
-1MS23CS2715,1,MCS14,VR,Virtual Reality,BID41,B
-1MS23CS6711,1,MCS16,IoT,Internet of Things,BID61,C
-1MS23CS7761,1,MCS15,AIML,Machine Learning,BID52,D
-1MS23CS5177,1,MCS13,RMI,Engineering Research Methodology,BID31,S
-1MS23CS8132,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
-1MS23CS8198,1,MCS12,ADBMS,Database System Concepts,BID22,C
-1MS23CS2429,1,MCS15,AIML,Machine Learning,BID52,C
-1MS23CS2341,1,MCS13,RMI,Engineering Research Methodology,BID31,C
-1MS23CS679,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,D
-1MS23CS2192,1,MCS16,IoT,Internet of Things,BID61,C
-1MS23CS4193,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
-1MS23CS3527,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,B
-1MS23CS2290,1,MCS15,AIML,Machine Learning,BID52,B
-1MS23CS3321,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,D
-1MS23CS7383,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
-1MS23CS3099,1,MCS13,RMI,Research Methods for Engineers,BID32,C
-1MS23CS9742,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,D
-1MS23CS3012,1,MCS13,RMI,Research Methods for Engineers,BID32,B
-1MS23CS8272,1,MCS13,RMI,Engineering Research Methodology,BID31,D
-1MS23CS24,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,B
-1MS23CS4201,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,S
-1MS23CS4931,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
-1MS23CS5850,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,C
-1MS23CS1075,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,B
-1MS23CS9221,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,A
-1MS23CS347,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,B
-1MS23CS8085,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,B
-1MS23CS9348,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,A
-1MS23CS3966,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
-1MS23CS2352,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,B
-1MS23CS1235,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,A
-1MS23CS3474,1,MCS16,IoT,Internet of Things,BID61,A
-1MS23CS2825,1,MCS12,ADBMS,Database System Concepts,BID22,A
-1MS23CS5866,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
-1MS23CS1693,1,MCS13,RMI,Engineering Research Methodology,BID31,A
-1MS23CS4362,1,MCS14,VR,Virtual Reality,BID41,A
-1MS23CS3749,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,S
-1MS23CS4196,1,MCS14,VR,Virtual Reality,BID41,D
-1MS23CS9319,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
-1MS23CS897,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,D
-1MS23CS1807,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
-1MS23CS8496,1,MCS14,VR,Virtual Reality,BID41,A
-1MS23CS8655,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,B
-1MS23CS2484,1,MCS13,RMI,Research Methods for Engineers,BID32,S
-1MS23CS2604,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,S
-1MS23CS8866,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
-1MS23CS2116,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
-1MS23CS932,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,A
-1MS23CS6390,1,MCS13,RMI,Engineering Research Methodology,BID31,A
-1MS23CS6298,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
-1MS23CS693,1,MCS13,RMI,Research Methods for Engineers,BID32,C
-1MS23CS6155,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,C
-1MS23CS1499,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,D
-1MS23CS6817,1,MCS13,RMI,Research Methods for Engineers,BID32,C
-1MS23CS5222,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
-1MS23CS93,1,MCS16,IoT,Internet of Things,BID61,S
-1MS23CS7842,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,C
-1MS23CS9529,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,D
-1MS23CS6068,1,MCS15,AIML,Machine Learning,BID52,A
-1MS23CS4674,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
-1MS23CS2270,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,C
-1MS23CS3636,1,MCS16,IoT,Internet of Things,BID61,B
-1MS23CS656,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,D
-1MS23CS3540,1,MCS15,AIML,Machine Learning,BID52,B
-1MS23CS7899,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
-1MS23CS7224,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
-1MS23CS805,1,MCS13,RMI,Engineering Research Methodology,BID31,C
-1MS23CS7309,1,MCS16,IoT,Internet of Things,BID61,D
-1MS23CS3117,1,MCS16,IoT,Internet of Things,BID61,D
-1MS23CS8045,1,MCS14,VR,Virtual Reality,BID41,A
-1MS23CS6149,1,MCS15,AIML,Machine Learning,BID52,C
-1MS23CS2883,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
-1MS23CS3403,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,C
-1MS23CS2261,1,MCS13,RMI,Engineering Research Methodology,BID31,D
-1MS23CS5452,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
-1MS23CS4240,1,MCS14,VR,Virtual Reality,BID41,C
-1MS23CS1145,1,MCS15,AIML,Machine Learning,BID52,A
-1MS23CS5799,1,MCS13,RMI,Engineering Research Methodology,BID31,B
-1MS23CS3755,1,MCS16,IoT,Internet of Things,BID61,C
-1MS23CS8059,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,A
-1MS23CS5048,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
-1MS23CS1708,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
-1MS23CS6929,1,MCS14,VR,Virtual Reality,BID41,B
-1MS23CS1046,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
-1MS23CS3654,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
-1MS23CS9726,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,C
-1MS23CS6826,1,MCS13,RMI,Engineering Research Methodology,BID31,A
-1MS23CS5849,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
-1MS23CS5622,1,MCS15,AIML,Machine Learning,BID52,A
-1MS23CS5184,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,B
-1MS23CS2425,1,MCS13,RMI,Research Methods for Engineers,BID32,C
-1MS23CS7384,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,A
-1MS23CS5937,1,MCS13,RMI,Engineering Research Methodology,BID31,S
-1MS23CS3682,1,MCS13,RMI,Engineering Research Methodology,BID31,C
-1MS23CS6106,1,MCS15,AIML,Machine Learning,BID52,B
-1MS23CS2037,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
-1MS23CS747,1,MCS15,AIML,Machine Learning,BID52,B
-1MS23CS365,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
-1MS23CS9973,1,MCS13,RMI,Research Methods for Engineers,BID32,C
-1MS23CS4010,1,MCS14,VR,Virtual Reality,BID41,B
-1MS23CS7222,1,MCS15,AIML,Machine Learning,BID52,A
-1MS23CS3020,1,MCS12,ADBMS,Database System Concepts,BID22,S
-1MS23CS9950,1,MCS13,RMI,Engineering Research Methodology,BID31,D
-1MS23CS6271,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,C
-1MS23CS7604,1,MCS16,IoT,Internet of Things,BID61,S
-1MS23CS2218,1,MCS16,IoT,Internet of Things,BID61,C
-1MS23CS518,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,S
-1MS23CS4192,1,MCS14,VR,Virtual Reality,BID41,D
-1MS23CS1665,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,A
-1MS23CS6029,1,MCS16,IoT,Internet of Things,BID61,C
-1MS23CS9045,1,MCS12,ADBMS,Database System Concepts,BID22,B
-1MS23CS2499,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,A
-1MS23CS1939,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
-1MS23CS4282,1,MCS12,ADBMS,Database System Concepts,BID22,B
-1MS23CS4246,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,B
-1MS23CS6062,1,MCS15,AIML,Machine Learning,BID52,S
-1MS23CS5055,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
-1MS23CS8371,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
-1MS23CS9487,1,MCS14,VR,Virtual Reality,BID41,C
-1MS23CS8045,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,B
-1MS23CS7597,1,MCS16,IoT,Internet of Things,BID61,S
-1MS23CS5776,1,MCS16,IoT,Internet of Things,BID61,S
-1MS23CS1458,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,B
-1MS23CS4384,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
-1MS23CS469,1,MCS13,RMI,Research Methods for Engineers,BID32,D
-1MS23CS3929,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,A
-1MS23CS6798,1,MCS16,IoT,Internet of Things,BID61,D
-1MS23CS6487,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
-1MS23CS1632,1,MCS15,AIML,Machine Learning,BID52,C
-1MS23CS6801,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,A
-1MS23CS4926,1,MCS16,IoT,Internet of Things,BID61,B
-1MS23CS2407,1,MCS13,RMI,Research Methods for Engineers,BID32,D
-1MS23CS5150,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
-1MS23CS5446,1,MCS14,VR,Virtual Reality,BID41,A
-1MS23CS5272,1,MCS14,VR,Virtual Reality,BID41,B
-1MS23CS9564,1,MCS13,RMI,Engineering Research Methodology,BID31,C
-1MS23CS2813,1,MCS13,RMI,Engineering Research Methodology,BID31,D
-1MS23CS5369,1,MCS13,RMI,Research Methods for Engineers,BID32,C
-1MS23CS2937,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,A
-1MS23CS995,1,MCS15,AIML,Machine Learning,BID52,C
-1MS23CS6692,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
-1MS23CS5156,1,MCS14,VR,Virtual Reality,BID41,D
-1MS23CS2010,1,MCS13,RMI,Engineering Research Methodology,BID31,A
-1MS23CS8851,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,C
-1MS23CS7487,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
-1MS23CS2909,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,C
-1MS23CS2259,1,MCS13,RMI,Research Methods for Engineers,BID32,A
-1MS23CS973,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,D
-1MS23CS6754,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,B
-1MS23CS6872,1,MCS16,IoT,Internet of Things,BID61,C
-1MS23CS826,1,MCS15,AIML,Machine Learning,BID52,A
-1MS23CS2185,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
-1MS23CS6988,1,MCS12,ADBMS,Database System Concepts,BID22,C
-1MS23CS6725,1,MCS14,VR,Virtual Reality,BID41,B
-1MS23CS2105,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,S
-1MS23CS9617,1,MCS13,RMI,Engineering Research Methodology,BID31,S
-1MS23CS5760,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,A
-1MS23CS5922,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
-1MS23CS4902,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
-1MS23CS2145,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
-1MS23CS752,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,A
-1MS23CS2109,1,MCS13,RMI,Research Methods for Engineers,BID32,C
-1MS23CS8409,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,C
-1MS23CS9726,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,S
-1MS23CS6449,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,D
-1MS23CS6311,1,MCS13,RMI,Research Methods for Engineers,BID32,D
-1MS23CS1805,1,MCS14,VR,Virtual Reality,BID41,C
-1MS23CS1312,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
-1MS23CS4615,1,MCS13,RMI,Research Methods for Engineers,BID32,S
-1MS23CS8853,1,MCS14,VR,Virtual Reality,BID41,B
-1MS23CS4438,1,MCS13,RMI,Engineering Research Methodology,BID31,S
-1MS23CS7676,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,B
-1MS23CS6743,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,B
-1MS23CS3173,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
-1MS23CS1657,1,MCS15,AIML,Machine Learning,BID52,A
-1MS23CS4357,1,MCS13,RMI,Engineering Research Methodology,BID31,B
-1MS23CS8138,1,MCS16,IoT,Internet of Things,BID61,A
-1MS23CS1143,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
-1MS23CS6930,1,MCS14,VR,Virtual Reality,BID41,S
-1MS23CS3790,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,B
-1MS23CS4653,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,D
-1MS23CS5810,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
-1MS23CS1652,1,MCS15,AIML,Machine Learning,BID52,C
-1MS23CS3347,1,MCS16,IoT,Internet of Things,BID61,S
-1MS23CS4992,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
-1MS23CS806,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,D
-1MS23CS789,1,MCS13,RMI,Engineering Research Methodology,BID31,A
-1MS23CS3472,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
-1MS23CS3993,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
-1MS23CS8505,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,A
-1MS23CS9313,1,MCS14,VR,Virtual Reality,BID41,S
-1MS23CS2827,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,D
-1MS23CS6428,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,B
-1MS23CS665,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
-1MS23CS9229,1,MCS15,AIML,Machine Learning,BID52,S
-1MS23CS3323,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
-1MS23CS2093,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,C
-1MS23CS1328,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,B
-1MS23CS2223,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
-1MS23CS5794,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,D
-1MS23CS1080,1,MCS16,IoT,Internet of Things,BID61,B
-1MS23CS3827,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
-1MS23CS3798,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
-1MS23CS5921,1,MCS15,AIML,Machine Learning,BID52,A
-1MS23CS8514,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
-1MS23CS1488,1,MCS16,IoT,Internet of Things,BID61,C
-1MS23CS6110,1,MCS12,ADBMS,Database System Concepts,BID22,S
-1MS23CS448,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,A
-1MS23CS2015,1,MCS14,VR,Virtual Reality,BID41,A
-1MS23CS7121,1,MCS15,AIML,Machine Learning,BID52,B
-1MS23CS3768,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
-1MS23CS8008,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,D
-1MS23CS2143,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,B
-1MS23CS1595,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
-1MS23CS4202,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
-1MS23CS3809,1,MCS15,AIML,Machine Learning,BID52,C
-1MS23CS9569,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,D
-1MS23CS9389,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
-1MS23CS3149,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
-1MS23CS8956,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
-1MS23CS1665,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
-1MS23CS1636,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,B
-1MS23CS3841,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
-1MS23CS7544,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
-1MS23CS9487,1,MCS16,IoT,Internet of Things,BID61,C
-1MS23CS8446,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
-1MS23CS9240,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,B
-1MS23CS8230,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,D
-1MS23CS6140,1,MCS13,RMI,Engineering Research Methodology,BID31,A
-1MS23CS1073,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
-1MS23CS832,1,MCS13,RMI,Engineering Research Methodology,BID31,A
-1MS23CS7364,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,S
-1MS23CS8680,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,S
-1MS23CS2143,1,MCS13,RMI,Engineering Research Methodology,BID31,S
-1MS23CS3269,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
-1MS23CS2107,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,D
-1MS23CS737,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,D
-1MS23CS2858,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,A
-1MS23CS6374,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
-1MS23CS4165,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
-1MS23CS5575,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
-1MS23CS9720,1,MCS14,VR,Virtual Reality,BID41,B
-1MS23CS1504,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,D
-1MS23CS4361,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
-1MS23CS3877,1,MCS13,RMI,Engineering Research Methodology,BID31,C
-1MS23CS8974,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,S
-1MS23CS8480,1,MCS15,AIML,Machine Learning,BID52,B
-1MS23CS4563,1,MCS13,RMI,Research Methods for Engineers,BID32,B
-1MS23CS641,1,MCS12,ADBMS,Database System Concepts,BID22,S
-1MS23CS9773,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,D
-1MS23CS4787,1,MCS14,VR,Virtual Reality,BID41,S
-1MS23CS4931,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,A
-1MS23CS6297,1,MCS14,VR,Virtual Reality,BID41,S
-1MS23CS6559,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,B
-1MS23CS6756,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
-1MS23CS4966,1,MCS15,AIML,Machine Learning,BID52,A
-1MS23CS4540,1,MCS14,VR,Virtual Reality,BID41,S
-1MS23CS1077,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,D
-1MS23CS4560,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
-1MS23CS1247,1,MCS14,VR,Virtual Reality,BID41,B
-1MS23CS927,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,D
-1MS23CS129,1,MCS13,RMI,Research Methods for Engineers,BID32,C
-1MS23CS3749,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,S
-1MS23CS7974,1,MCS13,RMI,Research Methods for Engineers,BID32,D
-1MS23CS1515,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,B
-1MS23CS3176,1,MCS16,IoT,Internet of Things,BID61,S
-1MS23CS753,1,MCS15,AIML,Machine Learning,BID52,D
-1MS23CS4974,1,MCS16,IoT,Internet of Things,BID61,S
-1MS23CS6478,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,A
-1MS23CS625,1,MCS13,RMI,Engineering Research Methodology,BID31,D
-1MS23CS8942,1,MCS14,VR,Virtual Reality,BID41,C
-1MS23CS1696,1,MCS12,ADBMS,Database System Concepts,BID22,S
-1MS23CS8167,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
-1MS23CS8685,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
-1MS23CS8866,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
-1MS23CS5007,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,C
-1MS23CS7040,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
-1MS23CS8107,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,B
-1MS23CS9530,1,MCS16,IoT,Internet of Things,BID61,D
-1MS23CS5138,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
-1MS23CS525,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
-1MS23CS4048,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
-1MS23CS609,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,C
-1MS23CS9571,1,MCS14,VR,Virtual Reality,BID41,A
-1MS23CS1297,1,MCS13,RMI,Research Methods for Engineers,BID32,D
-1MS23CS3195,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,B
-1MS23CS8328,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,A
-1MS23CS7867,1,MCS13,RMI,Engineering Research Methodology,BID31,D
-1MS23CS6582,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,C
-1MS23CS9291,1,MCS16,IoT,Internet of Things,BID61,D
-1MS23CS6313,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
-1MS23CS6272,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
-1MS23CS1874,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,B
-1MS23CS2977,1,MCS14,VR,Virtual Reality,BID41,C
-1MS23CS8307,1,MCS13,RMI,Research Methods for Engineers,BID32,D
-1MS23CS2916,1,MCS13,RMI,Research Methods for Engineers,BID32,A
-1MS23CS2423,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
-1MS23CS7395,1,MCS16,IoT,Internet of Things,BID61,C
-1MS23CS8718,1,MCS12,ADBMS,Database System Concepts,BID22,S
-1MS23CS7090,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,A
-1MS23CS8649,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
-1MS23CS2349,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,B
-1MS23CS4429,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
-1MS23CS4826,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,S
-1MS23CS6703,1,MCS13,RMI,Research Methods for Engineers,BID32,S
-1MS23CS176,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,S
-1MS23CS7063,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,B
-1MS23CS6384,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
-1MS23CS8679,1,MCS15,AIML,Machine Learning,BID52,S
-1MS23CS1013,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,S
-1MS23CS7758,1,MCS14,VR,Virtual Reality,BID41,D
-1MS23CS4097,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
-1MS23CS13,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,S
-1MS23CS8994,1,MCS13,RMI,Engineering Research Methodology,BID31,A
-1MS23CS6978,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
-1MS23CS6723,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,B
-1MS23CS6205,1,MCS12,ADBMS,Database System Concepts,BID22,D
-1MS23CS4394,1,MCS14,VR,Virtual Reality,BID41,D
-1MS23CS8071,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,D
-1MS23CS9210,1,MCS14,VR,Virtual Reality,BID41,A
-1MS23CS5275,1,MCS13,RMI,Research Methods for Engineers,BID32,C
-1MS23CS7661,1,MCS13,RMI,Engineering Research Methodology,BID31,C
-1MS23CS6027,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
-1MS23CS8041,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
-1MS23CS3611,1,MCS13,RMI,Engineering Research Methodology,BID31,B
-1MS23CS854,1,MCS13,RMI,Engineering Research Methodology,BID31,C
-1MS23CS4276,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,B
-1MS23CS1247,1,MCS16,IoT,Internet of Things,BID61,S
-1MS23CS1676,1,MCS13,RMI,Research Methods for Engineers,BID32,C
-1MS23CS3248,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
-1MS23CS1516,1,MCS16,IoT,Internet of Things,BID61,C
-1MS23CS3812,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
-1MS23CS1403,1,MCS13,RMI,Engineering Research Methodology,BID31,A
-1MS23CS5246,1,MCS13,RMI,Engineering Research Methodology,BID31,D
-1MS23CS3751,1,MCS12,ADBMS,Database System Concepts,BID22,B
-1MS23CS9668,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
-1MS23CS1121,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
-1MS23CS1449,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,S
-1MS23CS1097,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,S
-1MS23CS2550,1,MCS13,RMI,Engineering Research Methodology,BID31,C
-1MS23CS41,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,C
-1MS23CS7681,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,A
-1MS23CS7964,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
-1MS23CS4531,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,C
-1MS23CS6757,1,MCS12,ADBMS,Database System Concepts,BID22,A
-1MS23CS7845,1,MCS16,IoT,Internet of Things,BID61,C
-1MS23CS1639,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,B
-1MS23CS7744,1,MCS14,VR,Virtual Reality,BID41,C
-1MS23CS1723,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,S
-1MS23CS5553,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
-1MS23CS6273,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
-1MS23CS1301,1,MCS14,VR,Virtual Reality,BID41,A
-1MS23CS9142,1,MCS16,IoT,Internet of Things,BID61,C
-1MS23CS237,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
-1MS23CS9101,1,MCS16,IoT,Internet of Things,BID61,C
-1MS23CS5769,1,MCS13,RMI,Engineering Research Methodology,BID31,D
-1MS23CS2056,1,MCS14,VR,Virtual Reality,BID41,D
-1MS23CS5662,1,MCS13,RMI,Engineering Research Methodology,BID31,A
-1MS23CS5226,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,B
-1MS23CS9877,1,MCS12,ADBMS,Database System Concepts,BID22,S
-1MS23CS4202,1,MCS13,RMI,Engineering Research Methodology,BID31,D
-1MS23CS9170,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
-1MS23CS9293,1,MCS13,RMI,Engineering Research Methodology,BID31,S
-1MS23CS4588,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
-1MS23CS5168,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
-1MS23CS7471,1,MCS13,RMI,Engineering Research Methodology,BID31,S
-1MS23CS2488,1,MCS14,VR,Virtual Reality,BID41,S
-1MS23CS1745,1,MCS12,ADBMS,Database System Concepts,BID22,D
-1MS23CS8903,1,MCS14,VR,Virtual Reality,BID41,D
-1MS23CS1742,1,MCS14,VR,Virtual Reality,BID41,S
-1MS23CS3406,1,MCS14,VR,Virtual Reality,BID41,S
-1MS23CS7690,1,MCS13,RMI,Research Methods for Engineers,BID32,S
-1MS23CS1550,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,S
-1MS23CS501,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
-1MS23CS1395,1,MCS14,VR,Virtual Reality,BID41,B
-1MS23CS1149,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,D
-1MS23CS569,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,S
-1MS23CS4744,1,MCS13,RMI,Research Methods for Engineers,BID32,A
-1MS23CS610,1,MCS14,VR,Virtual Reality,BID41,A
-1MS23CS9192,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
-1MS23CS2879,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,A
-1MS23CS4793,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
-1MS23CS6203,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
-1MS23CS2261,1,MCS14,VR,Virtual Reality,BID41,D
-1MS23CS9684,1,MCS15,AIML,Machine Learning,BID52,C
-1MS23CS9849,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,A
-1MS23CS7718,1,MCS13,RMI,Research Methods for Engineers,BID32,A
-1MS23CS7241,1,MCS13,RMI,Research Methods for Engineers,BID32,C
-1MS23CS772,1,MCS15,AIML,Machine Learning,BID52,C
-1MS23CS9379,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
-1MS23CS4580,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,B
-1MS23CS9793,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
-1MS23CS742,1,MCS13,RMI,Research Methods for Engineers,BID32,S
-1MS23CS2385,1,MCS13,RMI,Research Methods for Engineers,BID32,C
-1MS23CS2075,1,MCS15,AIML,Machine Learning,BID52,D
-1MS23CS1652,1,MCS15,AIML,Machine Learning,BID52,D
-1MS23CS9943,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
-1MS23CS3510,1,MCS16,IoT,Internet of Things,BID61,D
-1MS23CS3491,1,MCS13,RMI,Engineering Research Methodology,BID31,C
-1MS23CS463,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,B
-1MS23CS3402,1,MCS14,VR,Virtual Reality,BID41,D
-1MS23CS7394,1,MCS13,RMI,Research Methods for Engineers,BID32,S
-1MS23CS6125,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
-1MS23CS3337,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
-1MS23CS8565,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
-1MS23CS5057,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,B
-1MS23CS3874,1,MCS13,RMI,Engineering Research Methodology,BID31,S
-1MS23CS565,1,MCS16,IoT,Internet of Things,BID61,S
-1MS23CS1889,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
-1MS23CS9884,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,A
-1MS23CS9153,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
-1MS23CS7287,1,MCS16,IoT,Internet of Things,BID61,C
-1MS23CS2577,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
-1MS23CS3791,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,S
-1MS23CS7843,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,B
-1MS23CS2004,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,C
-1MS23CS6177,1,MCS15,AIML,Machine Learning,BID52,S
-1MS23CS6569,1,MCS15,AIML,Machine Learning,BID52,D
-1MS23CS7782,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,A
-1MS23CS9409,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
-1MS23CS8973,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,C
-1MS23CS7840,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
-1MS23CS1123,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,D
-1MS23CS5946,1,MCS15,AIML,Machine Learning,BID52,B
-1MS23CS1014,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,C
-1MS23CS8987,1,MCS13,RMI,Engineering Research Methodology,BID31,B
-1MS23CS9298,1,MCS13,RMI,Engineering Research Methodology,BID31,C
-1MS23CS9312,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,B
-1MS23CS6974,1,MCS14,VR,Virtual Reality,BID41,D
-1MS23CS7349,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
-1MS23CS2475,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,B
-1MS23CS6599,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,S
-1MS23CS9672,1,MCS15,AIML,Machine Learning,BID52,D
-1MS23CS1621,1,MCS16,IoT,Internet of Things,BID61,D
-1MS23CS5790,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
-1MS23CS8111,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
-1MS23CS5285,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,A
-1MS23CS5383,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
-1MS23CS1197,1,MCS16,IoT,Internet of Things,BID61,A
-1MS23CS7381,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,C
-1MS23CS2516,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,B
-1MS23CS7850,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,S
-1MS23CS1937,1,MCS13,RMI,Engineering Research Methodology,BID31,C
-1MS23CS9559,1,MCS13,RMI,Engineering Research Methodology,BID31,A
-1MS23CS668,1,MCS16,IoT,Internet of Things,BID61,B
-1MS23CS8375,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
-1MS23CS4938,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
-1MS23CS3937,1,MCS13,RMI,Research Methods for Engineers,BID32,A
-1MS23CS811,1,MCS16,IoT,Internet of Things,BID61,D
-1MS23CS622,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,B
-1MS23CS7466,1,MCS13,RMI,Engineering Research Methodology,BID31,S
-1MS23CS4697,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
-1MS23CS3484,1,MCS14,VR,Virtual Reality,BID41,S
-1MS23CS9346,1,MCS14,VR,Virtual Reality,BID41,B
-1MS23CS6800,1,MCS13,RMI,Engineering Research Methodology,BID31,S
-1MS23CS7513,1,MCS16,IoT,Internet of Things,BID61,C
-1MS23CS7575,1,MCS14,VR,Virtual Reality,BID41,C
-1MS23CS6886,1,MCS13,RMI,Research Methods for Engineers,BID32,D
-1MS23CS4139,1,MCS12,ADBMS,Database System Concepts,BID22,S
-1MS23CS297,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
-1MS23CS1261,1,MCS12,ADBMS,Database System Concepts,BID22,D
-1MS23CS7444,1,MCS16,IoT,Internet of Things,BID61,B
-1MS23CS9885,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
-1MS23CS8753,1,MCS16,IoT,Internet of Things,BID61,C
-1MS23CS413,1,MCS15,AIML,Machine Learning,BID52,B
-1MS23CS7877,1,MCS16,IoT,Internet of Things,BID61,B
-1MS23CS2538,1,MCS15,AIML,Machine Learning,BID52,A
-1MS23CS411,1,MCS15,AIML,Machine Learning,BID52,C
-1MS23CS7014,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,B
-1MS23CS4943,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
-1MS23CS5769,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
-1MS23CS2999,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
-1MS23CS3933,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,C
-1MS23CS9593,1,MCS15,AIML,Machine Learning,BID52,S
-1MS23CS9491,1,MCS14,VR,Virtual Reality,BID41,C
-1MS23CS1519,1,MCS16,IoT,Internet of Things,BID61,B
-1MS23CS4508,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,S
-1MS23CS4825,1,MCS14,VR,Virtual Reality,BID41,C
-1MS23CS8748,1,MCS12,ADBMS,Database System Concepts,BID22,B
-1MS23CS3586,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,A
-1MS23CS7929,1,MCS13,RMI,Research Methods for Engineers,BID32,S
-1MS23CS4132,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
-1MS23CS8088,1,MCS12,ADBMS,Database System Concepts,BID22,D
-1MS23CS1537,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,C
-1MS23CS13,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
-1MS23CS1595,1,MCS13,RMI,Engineering Research Methodology,BID31,A
-1MS23CS4560,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
-1MS23CS1444,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,C
-1MS23CS4084,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,C
-1MS23CS1885,1,MCS16,IoT,Internet of Things,BID61,A
-1MS23CS3413,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
-1MS23CS4569,1,MCS14,VR,Virtual Reality,BID41,C
-1MS23CS8001,1,MCS14,VR,Virtual Reality,BID41,D
-1MS23CS5769,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,B
-1MS23CS576,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
-1MS23CS8141,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,C
-1MS23CS7795,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,A
-1MS23CS7413,1,MCS13,RMI,Engineering Research Methodology,BID31,C
-1MS23CS5713,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
-1MS23CS9104,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,B
-1MS23CS9147,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
-1MS23CS2953,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
-1MS23CS5984,1,MCS13,RMI,Engineering Research Methodology,BID31,D
-1MS23CS5332,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
-1MS23CS9678,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
-1MS23CS4865,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
-1MS23CS3576,1,MCS12,ADBMS,Database System Concepts,BID22,S
-1MS23CS4913,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,B
-1MS23CS7691,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,C
-1MS23CS5622,1,MCS13,RMI,Engineering Research Methodology,BID31,S
-1MS23CS1704,1,MCS14,VR,Virtual Reality,BID41,A
-1MS23CS8096,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
-1MS23CS8456,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
-1MS23CS6950,1,MCS13,RMI,Research Methods for Engineers,BID32,D
-1MS23CS6597,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,D
-1MS23CS2276,1,MCS14,VR,Virtual Reality,BID41,C
-1MS23CS2824,1,MCS16,IoT,Internet of Things,BID61,A
-1MS23CS9258,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,B
-1MS23CS5293,1,MCS13,RMI,Research Methods for Engineers,BID32,A
-1MS23CS5434,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,S
-1MS23CS6307,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
-1MS23CS1655,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
-1MS23CS4528,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,A
-1MS23CS680,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,A
-1MS23CS4077,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,A
-1MS23CS5745,1,MCS15,AIML,Machine Learning,BID52,S
-1MS23CS6780,1,MCS16,IoT,Internet of Things,BID61,B
-1MS23CS7235,1,MCS14,VR,Virtual Reality,BID41,A
-1MS23CS1890,1,MCS14,VR,Virtual Reality,BID41,D
-1MS23CS3945,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,S
-1MS23CS9373,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,B
-1MS23CS6984,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
-1MS23CS2398,1,MCS12,ADBMS,Database System Concepts,BID22,C
-1MS23CS7582,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,D
-1MS23CS3619,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
-1MS23CS5729,1,MCS14,VR,Virtual Reality,BID41,B
-1MS23CS1749,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
-1MS23CS5214,1,MCS13,RMI,Research Methods for Engineers,BID32,C
-1MS23CS9768,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
-1MS23CS9456,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
-1MS23CS6331,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
-1MS23CS6265,1,MCS13,RMI,Research Methods for Engineers,BID32,D
-1MS23CS7463,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,A
-1MS23CS4503,1,MCS16,IoT,Internet of Things,BID61,B
-1MS23CS7042,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,B
-1MS23CS3616,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,B
-1MS23CS885,1,MCS15,AIML,Machine Learning,BID52,A
-1MS23CS4217,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,B
-1MS23CS1480,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,B
-1MS23CS1975,1,MCS14,VR,Virtual Reality,BID41,C
-1MS23CS4606,1,MCS12,ADBMS,Database System Concepts,BID22,C
-1MS23CS9942,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
-1MS23CS118,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,B
-1MS23CS1432,1,MCS14,VR,Virtual Reality,BID41,C
-1MS23CS699,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,S
-1MS23CS1295,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,A
-1MS23CS5427,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,S
-1MS23CS3516,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,B
-1MS23CS1807,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
-1MS23CS778,1,MCS14,VR,Virtual Reality,BID41,S
-1MS23CS7536,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,B
-1MS23CS9545,1,MCS14,VR,Virtual Reality,BID41,C
-1MS23CS6614,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,C
-1MS23CS8928,1,MCS15,AIML,Machine Learning,BID52,B
-1MS23CS4701,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
-1MS23CS6078,1,MCS13,RMI,Research Methods for Engineers,BID32,S
-1MS23CS9397,1,MCS13,RMI,Research Methods for Engineers,BID32,S
-1MS23CS6131,1,MCS15,AIML,Machine Learning,BID52,S
-1MS23CS4716,1,MCS15,AIML,Machine Learning,BID52,B
-1MS23CS2704,1,MCS13,RMI,Engineering Research Methodology,BID31,S
-1MS23CS5436,1,MCS15,AIML,Machine Learning,BID52,C
-1MS23CS5109,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,D
-1MS23CS1308,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,B
-1MS23CS2549,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,S
-1MS23CS5891,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
-1MS23CS4512,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
-1MS23CS306,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,D
-1MS23CS8492,1,MCS16,IoT,Internet of Things,BID61,B
-1MS23CS8285,1,MCS16,IoT,Internet of Things,BID61,A
-1MS23CS5115,1,MCS12,ADBMS,Database System Concepts,BID22,B
-1MS23CS901,1,MCS15,AIML,Machine Learning,BID52,S
-1MS23CS5889,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
-1MS23CS6948,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
-1MS23CS6057,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,D
-1MS23CS1887,1,MCS13,RMI,Research Methods for Engineers,BID32,D
-1MS23CS1531,1,MCS16,IoT,Internet of Things,BID61,B
-1MS23CS4241,1,MCS14,VR,Virtual Reality,BID41,A
-1MS23CS6614,1,MCS15,AIML,Machine Learning,BID52,C
-1MS23CS9965,1,MCS15,AIML,Machine Learning,BID52,S
-1MS23CS8590,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
-1MS23CS2842,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
-1MS23CS6324,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,D
-1MS23CS1512,1,MCS15,AIML,Machine Learning,BID52,B
-1MS23CS2982,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
-1MS23CS815,1,MCS13,RMI,Engineering Research Methodology,BID31,D
-1MS23CS9774,1,MCS15,AIML,Machine Learning,BID52,A
-1MS23CS9136,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,A
-1MS23CS9597,1,MCS13,RMI,Research Methods for Engineers,BID32,C
-1MS23CS3581,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
-1MS23CS5060,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,B
-1MS23CS4243,1,MCS12,ADBMS,Database System Concepts,BID22,S
-1MS23CS8137,1,MCS15,AIML,Machine Learning,BID52,A
-1MS23CS4001,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,C
-1MS23CS5072,1,MCS13,RMI,Engineering Research Methodology,BID31,S
-1MS23CS5167,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,S
-1MS23CS7351,1,MCS13,RMI,Research Methods for Engineers,BID32,D
-1MS23CS352,1,MCS16,IoT,Internet of Things,BID61,S
-1MS23CS8832,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,D
-1MS23CS8739,1,MCS13,RMI,Engineering Research Methodology,BID31,C
-1MS23CS7013,1,MCS15,AIML,Machine Learning,BID52,C
-1MS23CS4807,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,D
-1MS23CS7067,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,S
-1MS23CS9056,1,MCS14,VR,Virtual Reality,BID41,B
-1MS23CS7018,1,MCS14,VR,Virtual Reality,BID41,S
-1MS23CS5686,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,A
-1MS23CS6670,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
-1MS23CS5826,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
-1MS23CS6880,1,MCS13,RMI,Research Methods for Engineers,BID32,A
-1MS23CS3205,1,MCS13,RMI,Engineering Research Methodology,BID31,D
-1MS23CS7268,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,C
-1MS23CS1844,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
-1MS23CS1058,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
-1MS23CS102,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
-1MS23CS454,1,MCS13,RMI,Research Methods for Engineers,BID32,D
-1MS23CS1701,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,D
-1MS23CS8472,1,MCS15,AIML,Machine Learning,BID52,S
-1MS23CS3149,1,MCS13,RMI,Research Methods for Engineers,BID32,C
-1MS23CS779,1,MCS16,IoT,Internet of Things,BID61,A
-1MS23CS5466,1,MCS15,AIML,Machine Learning,BID52,D
-1MS23CS6466,1,MCS13,RMI,Engineering Research Methodology,BID31,S
-1MS23CS5582,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,B
-1MS23CS4564,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
-1MS23CS702,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,D
-1MS23CS2777,1,MCS13,RMI,Engineering Research Methodology,BID31,C
-1MS23CS1479,1,MCS13,RMI,Research Methods for Engineers,BID32,C
-1MS23CS2337,1,MCS12,ADBMS,Database System Concepts,BID22,A
-1MS23CS4240,1,MCS12,ADBMS,Database System Concepts,BID22,A
-1MS23CS1325,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,B
-1MS23CS4584,1,MCS16,IoT,Internet of Things,BID61,D
-1MS23CS1511,1,MCS13,RMI,Research Methods for Engineers,BID32,D
-1MS23CS7422,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,B
-1MS23CS416,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
-1MS23CS7948,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
-1MS23CS7351,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
-1MS23CS1374,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
-1MS23CS5479,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
-1MS23CS7354,1,MCS16,IoT,Internet of Things,BID61,C
-1MS23CS943,1,MCS14,VR,Virtual Reality,BID41,S
-1MS23CS7690,1,MCS14,VR,Virtual Reality,BID41,S
-1MS23CS233,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,D
-1MS23CS8705,1,MCS16,IoT,Internet of Things,BID61,S
-1MS23CS8164,1,MCS13,RMI,Engineering Research Methodology,BID31,D
-1MS23CS8259,1,MCS15,AIML,Machine Learning,BID52,D
-1MS23CS5437,1,MCS16,IoT,Internet of Things,BID61,A
-1MS23CS2132,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,A
-1MS23CS1903,1,MCS14,VR,Virtual Reality,BID41,B
-1MS23CS1708,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
-1MS23CS9032,1,MCS14,VR,Virtual Reality,BID41,D
-1MS23CS5083,1,MCS14,VR,Virtual Reality,BID41,C
-1MS23CS5163,1,MCS13,RMI,Research Methods for Engineers,BID32,B
-1MS23CS6291,1,MCS13,RMI,Research Methods for Engineers,BID32,D
-1MS23CS2030,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
-1MS23CS4185,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,C
-1MS23CS995,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
-1MS23CS9607,1,MCS14,VR,Virtual Reality,BID41,A
-1MS23CS9208,1,MCS13,RMI,Engineering Research Methodology,BID31,B
-1MS23CS7868,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,C
-1MS23CS8602,1,MCS13,RMI,Engineering Research Methodology,BID31,B
-1MS23CS8241,1,MCS16,IoT,Internet of Things,BID61,A
-1MS23CS8687,1,MCS16,IoT,Internet of Things,BID61,D
-1MS23CS53,1,MCS13,RMI,Research Methods for Engineers,BID32,B
-1MS23CS8031,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,D
-1MS23CS1737,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
-1MS23CS7914,1,MCS14,VR,Virtual Reality,BID41,A
-1MS23CS4586,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
-1MS23CS8393,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
-1MS23CS3245,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
-1MS23CS3684,1,MCS13,RMI,Research Methods for Engineers,BID32,C
-1MS23CS8381,1,MCS16,IoT,Internet of Things,BID61,S
-1MS23CS4574,1,MCS13,RMI,Research Methods for Engineers,BID32,B
-1MS23CS1030,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
-1MS23CS7104,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
-1MS23CS6018,1,MCS12,ADBMS,Database System Concepts,BID22,C
-1MS23CS5998,1,MCS14,VR,Virtual Reality,BID41,A
-1MS23CS3676,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,B
-1MS23CS115,1,MCS16,IoT,Internet of Things,BID61,S
-1MS23CS5831,1,MCS16,IoT,Internet of Things,BID61,D
-1MS23CS8468,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
-1MS23CS7296,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,B
-1MS23CS1743,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
-1MS23CS2767,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,B
-1MS23CS3911,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
-1MS23CS6408,1,MCS16,IoT,Internet of Things,BID61,S
-1MS23CS1291,1,MCS13,RMI,Engineering Research Methodology,BID31,D
-1MS23CS7345,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
-1MS23CS9417,1,MCS13,RMI,Research Methods for Engineers,BID32,B
-1MS23CS6056,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
-1MS23CS1703,1,MCS12,ADBMS,Database System Concepts,BID22,S
-1MS23CS9435,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,D
-1MS23CS8507,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
-1MS23CS8884,1,MCS14,VR,Virtual Reality,BID41,D
-1MS23CS6412,1,MCS13,RMI,Engineering Research Methodology,BID31,B
-1MS23CS6159,1,MCS16,IoT,Internet of Things,BID61,D
-1MS23CS3769,1,MCS12,ADBMS,Database System Concepts,BID22,C
-1MS23CS1103,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,B
-1MS23CS232,1,MCS13,RMI,Engineering Research Methodology,BID31,B
-1MS23CS4355,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
-1MS23CS9682,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,B
-1MS23CS2361,1,MCS13,RMI,Research Methods for Engineers,BID32,D
-1MS23CS937,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
-1MS23CS6594,1,MCS15,AIML,Machine Learning,BID52,C
-1MS23CS844,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,S
-1MS23CS234,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,B
-1MS23CS737,1,MCS13,RMI,Research Methods for Engineers,BID32,C
-1MS23CS8386,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
-1MS23CS6993,1,MCS16,IoT,Internet of Things,BID61,C
-1MS23CS1542,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,C
-1MS23CS1728,1,MCS12,ADBMS,Database System Concepts,BID22,A
-1MS23CS7590,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,S
-1MS23CS3502,1,MCS13,RMI,Research Methods for Engineers,BID32,A
-1MS23CS210,1,MCS13,RMI,Research Methods for Engineers,BID32,D
-1MS23CS2983,1,MCS16,IoT,Internet of Things,BID61,C
-1MS23CS6871,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,B
-1MS23CS1120,1,MCS15,AIML,Machine Learning,BID52,S
-1MS23CS9317,1,MCS12,ADBMS,Database System Concepts,BID22,B
-1MS23CS7788,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
-1MS23CS194,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
-1MS23CS3642,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,S
-1MS23CS5756,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,B
-1MS23CS1980,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,D
-1MS23CS9768,1,MCS13,RMI,Research Methods for Engineers,BID32,B
-1MS23CS2335,1,MCS13,RMI,Research Methods for Engineers,BID32,A
-1MS23CS5017,1,MCS15,AIML,Machine Learning,BID52,B
-1MS23CS6995,1,MCS14,VR,Virtual Reality,BID41,D
-1MS23CS7396,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
-1MS23CS2283,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
-1MS23CS496,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,A
-1MS23CS1255,1,MCS14,VR,Virtual Reality,BID41,A
-1MS23CS4984,1,MCS14,VR,Virtual Reality,BID41,B
-1MS23CS9165,1,MCS16,IoT,Internet of Things,BID61,D
-1MS23CS2401,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,B
-1MS23CS2163,1,MCS16,IoT,Internet of Things,BID61,B
-1MS23CS4829,1,MCS15,AIML,Machine Learning,BID52,D
-1MS23CS2312,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,B
-1MS23CS4307,1,MCS12,ADBMS,Database System Concepts,BID22,B
-1MS23CS6464,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
-1MS23CS7349,1,MCS15,AIML,Machine Learning,BID52,A
-1MS23CS7528,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,B
-1MS23CS9748,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,C
-1MS23CS4747,1,MCS13,RMI,Engineering Research Methodology,BID31,S
-1MS23CS237,1,MCS15,AIML,Machine Learning,BID52,S
-1MS23CS2880,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,S
-1MS23CS9827,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
-1MS23CS556,1,MCS13,RMI,Research Methods for Engineers,BID32,B
-1MS23CS6573,1,MCS13,RMI,Research Methods for Engineers,BID32,D
-1MS23CS1036,1,MCS15,AIML,Machine Learning,BID52,S
-1MS23CS3333,1,MCS13,RMI,Research Methods for Engineers,BID32,D
-1MS23CS8548,1,MCS12,ADBMS,Database System Concepts,BID22,A
-1MS23CS3393,1,MCS13,RMI,Research Methods for Engineers,BID32,B
-1MS23CS6473,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,B
-1MS23CS2847,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,S
-1MS23CS6828,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
-1MS23CS8177,1,MCS15,AIML,Machine Learning,BID52,C
-1MS23CS7481,1,MCS13,RMI,Engineering Research Methodology,BID31,D
-1MS23CS9033,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
-1MS23CS8672,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,B
-1MS23CS7614,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,S
-1MS23CS3980,1,MCS15,AIML,Machine Learning,BID52,C
-1MS23CS9035,1,MCS13,RMI,Engineering Research Methodology,BID31,A
-1MS23CS4871,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,S
-1MS23CS7605,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,C
-1MS23CS8226,1,MCS13,RMI,Engineering Research Methodology,BID31,C
-1MS23CS8398,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,D
-1MS23CS8438,1,MCS14,VR,Virtual Reality,BID41,A
-1MS23CS3665,1,MCS13,RMI,Engineering Research Methodology,BID31,D
-1MS23CS1993,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
-1MS23CS5552,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
-1MS23CS9692,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,D
-1MS23CS3583,1,MCS12,ADBMS,Database System Concepts,BID22,S
-1MS23CS5527,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,D
-1MS23CS2571,1,MCS12,ADBMS,Database System Concepts,BID22,A
-1MS23CS8446,1,MCS15,AIML,Machine Learning,BID52,D
-1MS23CS3800,1,MCS12,ADBMS,Database System Concepts,BID22,D
-1MS23CS7087,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,D
-1MS23CS1968,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,D
-1MS23CS854,1,MCS13,RMI,Research Methods for Engineers,BID32,C
-1MS23CS6010,1,MCS13,RMI,Research Methods for Engineers,BID32,S
-1MS23CS4456,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
-1MS23CS69,1,MCS16,IoT,Internet of Things,BID61,D
-1MS23CS3290,1,MCS13,RMI,Engineering Research Methodology,BID31,A
-1MS23CS7007,1,MCS16,IoT,Internet of Things,BID61,D
-1MS23CS3420,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,C
-1MS23CS2826,1,MCS12,ADBMS,Database System Concepts,BID22,C
-1MS23CS5345,1,MCS13,RMI,Engineering Research Methodology,BID31,D
-1MS23CS6473,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
-1MS23CS3633,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
-1MS23CS713,1,MCS13,RMI,Research Methods for Engineers,BID32,C
-1MS23CS5432,1,MCS13,RMI,Research Methods for Engineers,BID32,C
-1MS23CS8422,1,MCS13,RMI,Engineering Research Methodology,BID31,D
-1MS23CS4652,1,MCS13,RMI,Research Methods for Engineers,BID32,S
-1MS23CS6094,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,D
-1MS23CS5022,1,MCS13,RMI,Engineering Research Methodology,BID31,C
-1MS23CS4187,1,MCS13,RMI,Research Methods for Engineers,BID32,C
-1MS23CS5039,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
-1MS23CS5667,1,MCS13,RMI,Research Methods for Engineers,BID32,C
-1MS23CS7729,1,MCS13,RMI,Engineering Research Methodology,BID31,S
-1MS23CS844,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
-1MS23CS10000,1,MCS13,RMI,Research Methods for Engineers,BID32,S
-1MS23CS1755,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,B
-1MS23CS8873,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,S
-1MS23CS2474,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,A
-1MS23CS4276,1,MCS14,VR,Virtual Reality,BID41,C
-1MS23CS7226,1,MCS14,VR,Virtual Reality,BID41,C
-1MS23CS688,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,C
-1MS23CS3672,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,D
-1MS23CS4959,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
-1MS23CS2726,1,MCS11,Advanced Mathematics,Linear Algebra with Applications,BID13,B
-1MS23CS100,1,MCS13,RMI,Research Methods for Engineers,BID32,S
-1MS23CS8517,1,MCS14,VR,Virtual Reality,BID41,S
-1MS23CS564,1,MCS13,RMI,Engineering Research Methodology,BID31,A
-1MS23CS3834,1,MCS14,VR,Virtual Reality,BID41,D
-1MS23CS3008,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,C
-1MS23CS5935,1,MCS16,IoT,Internet of Things,BID61,B
-1MS23CS5347,1,MCS16,IoT,Internet of Things,BID61,B
-1MS23CS5692,1,MCS16,IoT,Internet of Things,BID61,A
-1MS23CS4626,1,MCS15,AIML,Machine Learning,BID52,S
-1MS23CS7767,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,D
-1MS23CS5382,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,D
-1MS23CS3291,1,MCS16,IoT,Internet of Things,BID61,D
-1MS23CS6480,1,MCS16,IoT,Internet of Things,BID61,B
-1MS23CS972,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,C
-1MS23CS305,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,C
-1MS23CS6510,1,MCS14,VR,Virtual Reality,BID41,S
-1MS23CS2932,1,MCS13,RMI,Research Methods for Engineers,BID32,C
-1MS23CS1588,1,MCS14,VR,Virtual Reality,BID41,C
-1MS23CS142,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,C
-1MS23CS398,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,B
-1MS23CS9508,1,MCS16,IoT,Internet of Things,BID61,A
-1MS23CS6668,1,MCS13,RMI,Research Methods for Engineers,BID32,A
-1MS23CS9360,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,B
-1MS23CS3434,1,MCS15,AIML,Machine Learning,BID52,B
-1MS23CS6309,1,MCS12,ADBMS,Database System Concepts,BID22,D
+1MS23CS2889,1,MCS11,Advanced Mathematics,"Probability & Statistics with Reliability, Queuing and Computer Science Applications",BID12,C
+1MS23CS8120,1,MCS13,RMI,Research Methods for Engineers,BID32,C
+1MS23CS118,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
+1MS23CS8884,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
+1MS23CS8156,1,MCS13,RMI,Engineering Research Methodology,BID31,B
+1MS23CS6981,1,MCS12,ADBMS,Database System Concepts,BID22,D
+1MS23CS3820,1,MCS13,RMI,Engineering Research Methodology,BID31,C
+1MS23CS9970,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
+1MS23CS9207,1,MCS14,VR,Virtual Reality,BID41,C
+1MS23CS9948,1,MCS15,AIML,Machine Learning,BID52,B
+1MS23CS9488,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,A
+1MS23CS2579,1,MCS16,IoT,Internet of Things,BID61,S
+1MS23CS2027,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,S
+1MS23CS8308,1,MCS16,IoT,Internet of Things,BID61,S
+1MS23CS707,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,A
+1MS23CS988,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
+1MS23CS7201,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,S
+1MS23CS4074,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,B
+1MS23CS8537,1,MCS13,RMI,Engineering Research Methodology,BID31,A
+1MS23CS5577,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,S
+1MS23CS5179,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,B
+1MS23CS9844,1,MCS13,RMI,Research Methods for Engineers,BID32,D
+1MS23CS3404,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,A
+1MS23CS4452,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,A
+1MS23CS1204,1,MCS15,AIML,Machine Learning,BID52,A
+1MS23CS9972,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,D
+1MS23CS5163,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,A
+1MS23CS4610,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
+1MS23CS2805,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,C
+1MS23CS8326,1,MCS12,ADBMS,NoSQL for Mere Mortals,BID23,B
+1MS23CS4204,1,MCS16,IoT,Internet of Things,BID61,A
+1MS23CS5380,1,MCS14,VR,Virtual Reality,BID41,C
+1MS23CS5162,1,MCS13,RMI,Research Methods for Engineers,BID32,A
+1MS23CS6771,1,MCS11,Advanced Mathematics,Advanced Engineering Mathematics,BID14,D
+1MS23CS2929,1,MCS16,IoT,Internet of Things,BID61,B
+1MS23CS5092,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,S
+1MS23CS3049,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,B
+1MS23CS9527,1,MCS15,AIML,Machine Learning,BID52,D
+1MS23CS9945,1,MCS15,AIML,Artificial Intelligence - A Modern Approach,BID51,B
+1MS23CS4194,1,MCS14,VR,Virtual Reality,BID41,C
+1MS23CS6869,1,MCS12,ADBMS,Fundamentals of Database Systems,BID21,S
+1MS23CS4321,1,MCS15,AIML,Machine Learning,BID52,C
+1MS23CS8499,1,MCS16,IoT,"Designing the Internet of Things, Wiley",BID62,C
+1MS23CS8147,1,MCS16,IoT,Internet of Things,BID61,C
+1MS23CS1004,1,MCS12,ADBMS,Database System Concepts,BID22,C
+1MS23CS5231,1,MCS14,VR,Virtual and Augmented Reality (VR/AR),BID42,C
+1MS23CS5480,1,MCS13,RMI,Research Methods for Engineers,BID32,B
+1MS23CS687,1,MCS12,ADBMS,Database System Concepts,BID22,B
+1MS23CS2523,1,MCS14,VR,Virtual Reality,BID41,S
+1MS23CS247,1,MCS11,Advanced Mathematics,Probability and Statistics,BID11,C

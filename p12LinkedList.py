@@ -183,11 +183,12 @@ user_item_matrix = df.pivot_table(index='BOOK_ID', columns='SUB_CODE', values='G
 
 item_similarity = cosine_similarity(user_item_matrix)
 
-def recommend_books(book_id, user_item_matrix, item_similarity, top_n=5):
+def recommend_books(book_id, user_item_matrix, item_similarity, top_n=10):
     similar_books = pd.Series(item_similarity[user_item_matrix.index == book_id][0], index=user_item_matrix.index)
     similar_books = similar_books.sort_values(ascending=False)
     similar_books = similar_books.drop(book_id)  
     return similar_books.head(top_n)
 
-recommended_books = recommend_books('BID11', user_item_matrix, item_similarity)
+recommended_books = recommend_books('BID32', user_item_matrix, item_similarity)
+print("Recommendation for Book ID: BID32")
 print(recommended_books)
