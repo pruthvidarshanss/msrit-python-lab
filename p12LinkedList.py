@@ -110,7 +110,7 @@ def save_to_csv(filename: str, cols: list, data: list) -> None:
         writer.writerows(data)
 
 
-def generate_books(filename: str, num_records: int) -> list:
+def generate_books(filename: str, num_records: int):
     fake = Faker()
 
     book_ll = LinkedList()
