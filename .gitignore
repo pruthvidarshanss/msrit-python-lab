@@ -1,5 +1,8 @@
+*.doc
 *.docx
 *.pdf
 *.xlsx
 *.ini
 desktop.ini
+
+Exam/
