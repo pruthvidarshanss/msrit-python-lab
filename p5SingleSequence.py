@@ -1,5 +1,5 @@
 """
-PROGRAM 4
+PROGRAM 5
 ------------------------------------------------------------------------------------------------------------------
 Write a Python program demonstrate single sequence of turning ON the LED for one second and then turning it OFF.
 """

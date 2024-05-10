@@ -129,9 +129,11 @@ generate_faculty_data(100000, dataset_file)
 
 faculty = FacultyOperations(dataset_file)
 asso_prof_25 = faculty.search("Associate Professor", 25)
+print("Faculty Dataset of Associate Professor\'s:")
 print(asso_prof_25[:10])
 
 factor_res = faculty.factoring(asso_prof_25)
+print("Faculty Dataset of Associate Professor\’s after factoring:")
 print(factor_res[:10]) 
 
 faculty.association_rule_mining("Associate Professor", 25)

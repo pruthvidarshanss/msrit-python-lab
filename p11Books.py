@@ -22,14 +22,21 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 from mlxtend.frequent_patterns import association_rules, apriori
-from surprise import Dataset, Reader, SVD
+from sklearn.metrics.pairwise import cosine_similarity
 
 from warnings import filterwarnings
 filterwarnings("ignore")
 
 subjects = ["Maths", "ADBMS", "AIML", "VR", "IoT", "RMI"]
 
-books = ["Advanced Mathematics", "Database Concepts", "AI & ML", "Virtual Reality", "IoT and its applications", "Reseach Methodology & IPR"]
+cse_subjects_books = {
+    "Advanced Mathematics" : (1, ["Probability and Statistics", "Probability & Statistics with Reliability, Queuing and Computer Science Applications", "Linear Algebra with Applications", "Advanced Engineering Mathematics"]), 
+    "ADBMS": (2, ["Fundamentals of Database Systems", "Database System Concepts", "NoSQL for Mere Mortals"]), 
+    "RMI": (3, ["Engineering Research Methodology", "Research Methods for Engineers"]),
+    "VR": (4, ["Virtual Reality", "Virtual and Augmented Reality (VR/AR)"]), 
+    "AIML": (5, ["Artificial Intelligence - A Modern Approach", "Machine Learning"]), 
+    "IoT": (6, ["Internet of Things", "Designing the Internet of Things, Wiley"]), 
+}
 
 def generate_books(filename: str, num_records: int) -> list:
     fake = Faker()
@@ -37,18 +44,18 @@ def generate_books(filename: str, num_records: int) -> list:
     data = []
     for _ in tqdm(range(num_records)):
         sem = 1
-        sub = random.choice(subjects)
-        sub_index = subjects.index(sub)
+        subject = random.choice(list(cse_subjects_books.keys()))
+        sub_index, books = cse_subjects_books[subject]
         sub_code = f"MCS{sem}{sub_index+1}"
         year_of_studying = 1 if sem in [1, 2] else 2
         usn = f"1MS{24-year_of_studying}CS{fake.random_int(min=1, max=10000)}"
 
-        book_ref = books[sub_index]
-        book_id = f"BID0{books.index(book_ref)+1}"
+        book_ref = random.choice(books)
+        book_id = f"BID{sub_index}{books.index(book_ref)+1}"
 
         grade = random.choice(["A", "B", "C", "D", "S"])
 
-        data.append([usn, sem, sub_code, sub, book_ref, book_id, grade])
+        data.append([usn, sem, sub_code, subject, book_ref, book_id, grade])
 
     with open(filename, 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
@@ -87,34 +94,14 @@ def association_rule_mining(df) -> None:
     association_rules_df.to_excel(f'association_rules_sem_subcode_bookid_grade.xlsx', index=False)
 
 
-def collaboration_filtering(df, sub_code: str) -> None:
-    df_ratings = df.copy()
-
-    reader = Reader(rating_scale=(8, 10))
-
-    dataset = Dataset.load_from_df(df_ratings[["SUB_CODE", 'BOOK_ID', 'GRADE_SCORED']], reader)
-
-    model = SVD()
-    trainset = dataset.build_full_trainset()
-    model.fit(trainset)
-
-    items_to_ignore = df_ratings[df_ratings['SUB_CODE'] == sub_code]['BOOK_ID']  
-    unrated_items = df_ratings[~df_ratings['BOOK_ID'].isin(items_to_ignore)]['BOOK_ID'].unique() 
-
-    testset = [(0, book_id, 0) for book_id in unrated_items]
-
-    predictions = model.test(testset)
-
-    sorted_predictions = sorted(predictions, key=lambda x: x.est, reverse=True)
-
-    top_recommendations = [(pred.iid, pred.est) for pred in sorted_predictions[:10]]
-
-    print(f"Top recommendations for subject code {sub_code}:")
-    for book_id, predicted_rating in top_recommendations:
-        print(f"Book ID: {book_id}, Predicted Rating: {predicted_rating}")
+def recommend_books(book_id, user_item_matrix, item_similarity, top_n=10):
+    similar_books = pd.Series(item_similarity[user_item_matrix.index == book_id][0], index=user_item_matrix.index)
+    similar_books = similar_books.sort_values(ascending=False)
+    similar_books = similar_books.drop(book_id)  
+    return similar_books.head(top_n)
 
 
-dataset_file = 'books.csv'
+dataset_file = 'p11books.csv'
 books_data = generate_books(dataset_file, 100000)
 
 print(books_data[:10])
@@ -144,4 +131,10 @@ association_rule_mining(extracted_unit)
 metadata = pd.read_csv("books.csv", low_memory=False)
 metadata = replace_grades_to_num(metadata)
 
-collaboration_filtering(metadata, "MSC11")
+user_item_matrix = metadata.pivot_table(index='BOOK_ID', columns='SUB_CODE', values='GRADE_SCORED', fill_value=0)
+
+item_similarity = cosine_similarity(user_item_matrix)
+
+recommended_books = recommend_books('BID31', user_item_matrix, item_similarity)
+print("Recommendation for Book ID: BID31")
+print(recommended_books)

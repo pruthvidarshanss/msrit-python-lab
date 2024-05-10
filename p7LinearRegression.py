@@ -14,6 +14,7 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 import pandas as pd
 from tqdm import tqdm
+import seaborn as sns
 
 
 def get_synthetic_faculty_dataset(num: int, filename: str) -> list:
@@ -61,8 +62,11 @@ data = get_synthetic_faculty_dataset(100000, dataset_file)
 
 df = pd.read_csv(dataset_file)
 correlation = df.corr()
-print(f"\nData Correlation:\n")
-print(correlation)
+
+sns.set(rc = {'figure.figsize':(10,6)})
+sns.heatmap(correlation, annot=True)
+plt.title("Correlation Heatmap Faculty Dataset")
+plt.show()
 
 X = df[["Experience"]]
 Y = df["Salary"]
@@ -78,20 +82,3 @@ plt.ylabel('Salary')
 plt.title('Linear Regression Analysis: Experience vs Salary')
 plt.show()
 
-
-"""
-Output:
-
-Data Correlation:
-
-                            Designation  Experience    Salary  No. of Publications  No. of Chapters  Amount of consultancy work  Fund Received  Professional Membership
-Designation                    1.000000    0.912824  0.562339             0.434499         0.408594                    0.552792       0.431305                 0.000353
-Experience                     0.912824    1.000000  0.687868             0.532954         0.502336                    0.676430       0.530115                -0.001661
-Salary                         0.562339    0.687868  1.000000             0.420076         0.398403                    0.530734       0.423278                -0.005320
-No. of Publications            0.434499    0.532954  0.420076             1.000000         0.310216                    0.414848       0.329431                -0.004747
-No. of Chapters                0.408594    0.502336  0.398403             0.310216         1.000000                    0.390389       0.310512                -0.002202
-Amount of consultancy work     0.552792    0.676430  0.530734             0.414848         0.390389                    1.000000       0.412340                -0.001321
-Fund Received                  0.431305    0.530115  0.423278             0.329431         0.310512                    0.412340       1.000000                -0.002413
-Professional Membership        0.000353   -0.001661 -0.005320            -0.004747        -0.002202                   -0.001321      -0.002413                 1.000000
-
-"""

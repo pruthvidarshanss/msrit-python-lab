@@ -189,6 +189,6 @@ def recommend_books(book_id, user_item_matrix, item_similarity, top_n=10):
     similar_books = similar_books.drop(book_id)  
     return similar_books.head(top_n)
 
-recommended_books = recommend_books('BID32', user_item_matrix, item_similarity)
-print("Recommendation for Book ID: BID32")
+recommended_books = recommend_books('BID52', user_item_matrix, item_similarity)
+print("Recommendation for Book ID: BID52")
 print(recommended_books)
