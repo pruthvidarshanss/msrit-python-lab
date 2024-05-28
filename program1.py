@@ -9,7 +9,7 @@ d. Read experience of faculty (number) from user & display the faculty name, if 
 """
 
 from faker import Faker
-import os, random, csv
+import random, csv
 from tqdm import tqdm
 
 
